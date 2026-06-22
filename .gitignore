@@ -1,0 +1,25 @@
+.venv/
+node_modules/
+apps/*/node_modules/
+apps/*/.expo/
+__pycache__/
+*.pyc
+.pytest_cache/
+.DS_Store
+.env
+*.db
+*.sqlite
+AGENT_CONTEXT.md
+/interview-prep/
+
+# Legacy local workspace code not part of Astro Bastro
+/src/
+/scripts/
+/configs/
+/ui/
+/tests/
+/pyproject.toml
+/requirements.txt
+
+/artifacts/
+/data/

@@ -1,0 +1,1 @@
+"""Trust Astro FastAPI service."""

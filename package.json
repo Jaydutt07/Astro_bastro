@@ -1,0 +1,18 @@
+{
+  "name": "trust-astro-monorepo",
+  "private": true,
+  "version": "0.1.0",
+  "description": "Trust-first Vedic astrology MVP with Expo mobile app and FastAPI backend.",
+  "workspaces": [
+    "apps/mobile"
+  ],
+  "scripts": {
+    "mobile": "npm --workspace apps/mobile start",
+    "mobile:ios": "npm --workspace apps/mobile run ios",
+    "mobile:android": "npm --workspace apps/mobile run android",
+    "mobile:typecheck": "npm --workspace apps/mobile run typecheck",
+    "api": "PYTHONPATH=packages/astro-core:services/api python -m uvicorn app.main:app --app-dir services/api --reload",
+    "api:test": "PYTHONPATH=packages/astro-core:services/api python -m pytest services/api/tests packages/astro-core/tests",
+    "quality": "PYTHONPATH=packages/astro-core:services/api python services/api/scripts/evaluate_reading_quality.py"
+  }
+}

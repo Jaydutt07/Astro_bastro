@@ -1,0 +1,28 @@
+{
+  "expo": {
+    "name": "Trust Astro",
+    "slug": "trust-astro",
+    "version": "0.1.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.trustastro.mobile"
+    },
+    "android": {
+      "package": "com.trustastro.mobile",
+      "adaptiveIcon": {
+        "backgroundColor": "#101820"
+      }
+    },
+    "plugins": [
+      "expo-notifications"
+    ],
+    "extra": {
+      "apiBaseUrl": "http://127.0.0.1:8000"
+    }
+  }
+}
