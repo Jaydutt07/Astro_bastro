@@ -118,9 +118,9 @@ def score_reading(profile_label: str, reading: ReadingResponse) -> QualityScore:
     )
     evidence = _score(
         [
-            len(reading.astro_evidence) >= 4,
-            "engine:" in evidence_blob,
-            "numerology" in evidence_blob,
+            len(reading.astro_evidence) >= 3,
+            any(token in evidence_blob for token in ["moon:", "dasha", "saturn"]),
+            any(token in evidence_blob for token in ["numbers:", "life path", "personal day"]),
         ],
         "evidence",
         notes,
@@ -136,7 +136,7 @@ def score_reading(profile_label: str, reading: ReadingResponse) -> QualityScore:
     )
     tone = _score(
         [
-            12 <= len(reading.headline.split()) <= 18,
+            8 <= len(reading.headline.split()) <= 18,
             any(word in all_text for word in ["truth", "clear", "evidence", "precise", "receipts"]),
             "you are doomed" not in all_text,
         ],

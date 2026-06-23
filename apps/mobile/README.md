@@ -1,13 +1,13 @@
-# Trust Astro Mobile
+# Astro Solves Mobile
 
-Expo app for the iOS + Android MVP.
+Expo app for the iOS + Android beta.
 
 ## Local Device Run
 
 Start the API first:
 
 ```bash
-DATABASE_URL=sqlite:////tmp/trust_astro_dev.db \
+DATABASE_URL=sqlite:////tmp/astro_solves_dev.db \
 PYTHONPATH=packages/astro-core:services/api \
 python -m uvicorn app.main:app --app-dir services/api --host 0.0.0.0 --port 8000
 ```

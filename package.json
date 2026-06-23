@@ -1,8 +1,8 @@
 {
-  "name": "trust-astro-monorepo",
+  "name": "astro-solves-monorepo",
   "private": true,
   "version": "0.1.0",
-  "description": "Trust-first Vedic astrology MVP with Expo mobile app and FastAPI backend.",
+  "description": "Problem-solving Vedic astrology beta with Expo mobile app and FastAPI backend.",
   "workspaces": [
     "apps/mobile"
   ],

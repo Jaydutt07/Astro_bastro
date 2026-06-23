@@ -1,7 +1,7 @@
-# Trust Astro API
+# Astro Solves API
 
-FastAPI backend for the Vedic astrology MVP. The deterministic chart engine lives in
-`packages/astro-core`; OpenAI is used only to render structured prose from chart facts.
+FastAPI backend for the Astro Solves beta. The deterministic chart engine lives in
+`packages/astro-core`; model-backed rendering is kept behind the API and never exposed in the app UI.
 
 ## Local Run
 
@@ -11,13 +11,27 @@ PYTHONPATH=packages/astro-core:services/api python -m uvicorn app.main:app --app
 
 Optional environment variables:
 
-- `OPENAI_API_KEY`: enables GPT-rendered readings.
-- `OPENAI_MODEL`: defaults to `gpt-4.1-mini`.
+- `OPENAI_API_KEY`: enables private model-backed readings.
+- `OPENAI_MODEL`: defaults to `gpt-5.5`.
+- `OPENAI_REASONING_EFFORT`: defaults to `medium`.
 - `REVENUECAT_API_KEY`: enables live RevenueCat validation.
-- `DATABASE_URL`: defaults to local SQLite at `services/api/trust_astro.db`.
+- `DATABASE_URL`: defaults to local SQLite at `services/api/astro_solves.db`.
 - `TRUST_ASTRO_EPHEMERIS_DIR`: stores Skyfield/JPL ephemeris files outside the repo.
 
-Without paid-service keys, endpoints stay runnable and return deterministic demo output.
+For local secrets, copy `services/api/.env.example` to `services/api/.env`.
+The API also reads a root `.env` file. Both locations are ignored by git.
+
+Without paid-service keys, endpoints stay runnable and return deterministic demo readings,
+problem insights, and local-demo solution unlocks.
+
+Core beta endpoints:
+
+- `POST /profile`
+- `GET /chart/natal`
+- `GET /reading/{period}` with `daily`, `weekly`, `monthly`, or `yearly`
+- `POST /problem/insight`
+- `POST /solutions/unlock`
+- `GET /memory/context`
 
 ## Accuracy Path
 
@@ -38,6 +52,6 @@ birth profiles.
 ## Docker
 
 ```bash
-docker build -f services/api/Dockerfile -t trust-astro-api .
-docker run --rm -p 8000:8000 --env-file services/api/.env.example trust-astro-api
+docker build -f services/api/Dockerfile -t astro-solves-api .
+docker run --rm -p 8000:8000 --env-file services/api/.env.example astro-solves-api
 ```

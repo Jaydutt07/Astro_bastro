@@ -13,6 +13,7 @@ class Consent(BaseModel):
 
 
 class BirthProfile(BaseModel):
+    full_name: str = Field(default="Astro Solves Seeker", alias="fullName", max_length=120)
     birth_date: date = Field(alias="birthDate")
     birth_time: str = Field(alias="birthTime", examples=["22:44"])
     birth_time_confidence: str = Field(default="exact", alias="birthTimeConfidence")
@@ -71,6 +72,40 @@ class LuckySupports(BaseModel):
     mantra: str
 
 
+class EntitlementStatus(BaseModel):
+    access: str = "free"
+    free_limit: int = Field(alias="freeLimit")
+    free_used: int = Field(alias="freeUsed")
+    free_remaining: int = Field(alias="freeRemaining")
+    message: str
+
+
+class HarmonyPerson(BaseModel):
+    name: str
+    sign: str
+    birth_number: int | None = Field(default=None, alias="birthNumber")
+    life_path_number: int | None = Field(default=None, alias="lifePathNumber")
+    name_number: int = Field(alias="nameNumber")
+
+
+class HarmonyResponse(BaseModel):
+    title: str
+    compatibility_score: int = Field(alias="compatibilityScore")
+    user: HarmonyPerson
+    partner: HarmonyPerson
+    best_relationship_matches: list[str] = Field(alias="bestRelationshipMatches")
+    best_marriage_matches: list[str] = Field(alias="bestMarriageMatches")
+    challenging_matches: list[str] = Field(alias="challengingMatches")
+    relationship_lens: str = Field(alias="relationshipLens")
+    marriage_lens: str = Field(alias="marriageLens")
+    numerology_lens: str = Field(alias="numerologyLens")
+    peace_practice: str = Field(alias="peacePractice")
+    watchouts: list[str]
+    remedies: list[str]
+    astro_evidence: list[str] = Field(alias="astroEvidence")
+    safety_disclaimer: str = Field(alias="safetyDisclaimer")
+
+
 class ReadingResponse(BaseModel):
     headline: str
     summary: str
@@ -83,6 +118,29 @@ class ReadingResponse(BaseModel):
     lucky_supports: LuckySupports = Field(alias="luckySupports")
     astro_evidence: list[str] = Field(alias="astroEvidence")
     safety_disclaimer: str = Field(alias="safetyDisclaimer")
+    entitlement: EntitlementStatus | None = None
+
+
+class SolutionStep(BaseModel):
+    title: str
+    practice: str
+    duration: str
+    why: str
+    is_free: bool = Field(alias="isFree")
+
+
+class ProblemInsightResponse(BaseModel):
+    problem_title: str = Field(alias="problemTitle")
+    reassurance: str
+    astro_pattern: str = Field(alias="astroPattern")
+    timeline: str
+    watchouts: list[str]
+    free_solution: SolutionStep = Field(alias="freeSolution")
+    premium_solutions: list[SolutionStep] = Field(alias="premiumSolutions")
+    astro_evidence: list[str] = Field(alias="astroEvidence")
+    safety_disclaimer: str = Field(alias="safetyDisclaimer")
+    entitlement: EntitlementStatus | None = None
 
 
 ReportKind = Literal["love", "career", "yearly"]
+ReadingPeriod = Literal["daily", "weekly", "monthly", "yearly"]

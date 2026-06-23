@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "Trust Astro",
-    "slug": "trust-astro",
+    "name": "Astro Solves",
+    "slug": "astro-solves",
     "version": "0.1.0",
     "orientation": "portrait",
     "userInterfaceStyle": "light",
@@ -10,10 +10,10 @@
     ],
     "ios": {
       "supportsTablet": true,
-      "bundleIdentifier": "com.trustastro.mobile"
+      "bundleIdentifier": "com.astrosolves.mobile"
     },
     "android": {
-      "package": "com.trustastro.mobile",
+      "package": "com.astrosolves.mobile",
       "adaptiveIcon": {
         "backgroundColor": "#101820"
       }

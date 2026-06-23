@@ -1,1 +1,1 @@
-"""Trust Astro FastAPI service."""
+"""Astro Solves FastAPI service."""

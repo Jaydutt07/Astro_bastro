@@ -24,6 +24,12 @@ SEED_PLACES = [
     PlaceResult(id="seed-delhi", label="Delhi, India", latitude=28.6139, longitude=77.2090, timezone="Asia/Kolkata", source="seed"),
     PlaceResult(id="seed-kolkata", label="Kolkata, West Bengal, India", latitude=22.5726, longitude=88.3639, timezone="Asia/Kolkata", source="seed"),
     PlaceResult(id="seed-chennai", label="Chennai, Tamil Nadu, India", latitude=13.0827, longitude=80.2707, timezone="Asia/Kolkata", source="seed"),
+    PlaceResult(id="seed-jaipur", label="Jaipur, Rajasthan, India", latitude=26.9124, longitude=75.7873, timezone="Asia/Kolkata", source="seed"),
+    PlaceResult(id="seed-ahmedabad", label="Ahmedabad, Gujarat, India", latitude=23.0225, longitude=72.5714, timezone="Asia/Kolkata", source="seed"),
+    PlaceResult(id="seed-lucknow", label="Lucknow, Uttar Pradesh, India", latitude=26.8467, longitude=80.9462, timezone="Asia/Kolkata", source="seed"),
+    PlaceResult(id="seed-kochi", label="Kochi, Kerala, India", latitude=9.9312, longitude=76.2673, timezone="Asia/Kolkata", source="seed"),
+    PlaceResult(id="seed-chandigarh", label="Chandigarh, India", latitude=30.7333, longitude=76.7794, timezone="Asia/Kolkata", source="seed"),
+    PlaceResult(id="seed-indore", label="Indore, Madhya Pradesh, India", latitude=22.7196, longitude=75.8577, timezone="Asia/Kolkata", source="seed"),
 ]
 
 

@@ -1,0 +1,3795 @@
+{
+  "summary": {
+    "runStamp": "2026-06-23_08-45-39",
+    "apiBaseUrl": "http://127.0.0.1:8011",
+    "cases": 10,
+    "allPassed": true,
+    "remoteRenderedCount": 10,
+    "storedAt": {
+      "json": "docs/beta-test-runs/2026-06-23_08-45-39_10-user-readings.json",
+      "markdown": "docs/beta-test-runs/2026-06-23_08-45-39_10-user-readings.md"
+    }
+  },
+  "results": [
+    {
+      "case": 1,
+      "userId": "beta-run-2026-06-23_08-45-39-01",
+      "profile": {
+        "fullName": "Aarav Sharma",
+        "birthDate": "1993-11-18",
+        "birthTime": "06:42",
+        "birthTimeConfidence": "exact",
+        "birthplaceText": "Pune, Maharashtra, India",
+        "latitude": 18.5204,
+        "longitude": 73.8567,
+        "timezone": "Asia/Kolkata",
+        "language": "en-IN",
+        "consent": {
+          "privacyAccepted": true,
+          "aiPersonalization": true,
+          "marketingOptIn": false
+        }
+      },
+      "placeSearch": {
+        "query": "Pune",
+        "selected": {
+          "id": "seed-pune",
+          "label": "Pune, Maharashtra, India",
+          "latitude": 18.5204,
+          "longitude": 73.8567,
+          "timezone": "Asia/Kolkata",
+          "source": "seed"
+        },
+        "resultCount": 3
+      },
+      "chart": {
+        "profile": {
+          "fullName": "Aarav Sharma",
+          "birthDate": "1993-11-18",
+          "birthTime": "06:42",
+          "birthTimeConfidence": "exact",
+          "birthplaceText": "Pune, Maharashtra, India",
+          "latitude": 18.5204,
+          "longitude": 73.8567,
+          "timezone": "Asia/Kolkata",
+          "language": "en-IN",
+          "consent": {
+            "privacyAccepted": true,
+            "aiPersonalization": true,
+            "marketingOptIn": false
+          }
+        },
+        "generatedFor": "2026-06-23",
+        "ayanamsa": "Lahiri approx 23.7713",
+        "calculationEngine": "Compact orbital fallback + Lahiri approximation",
+        "ascendant": {
+          "sign": "Scorpio",
+          "degree": 0.9355,
+          "absoluteDegree": 210.9355,
+          "nakshatra": "Vishakha",
+          "pada": 4
+        },
+        "moon": {
+          "sign": "Sagittarius",
+          "degree": 25.5398,
+          "absoluteDegree": 265.5398,
+          "nakshatra": "Purva Ashadha",
+          "pada": 4
+        },
+        "sun": {
+          "sign": "Scorpio",
+          "degree": 1.9377,
+          "absoluteDegree": 211.9377,
+          "nakshatra": "Vishakha",
+          "pada": 4
+        },
+        "planets": [
+          {
+            "planet": "Sun",
+            "point": {
+              "sign": "Scorpio",
+              "degree": 1.9377,
+              "absoluteDegree": 211.9377,
+              "nakshatra": "Vishakha",
+              "pada": 4
+            },
+            "house": 1
+          },
+          {
+            "planet": "Moon",
+            "point": {
+              "sign": "Sagittarius",
+              "degree": 25.5398,
+              "absoluteDegree": 265.5398,
+              "nakshatra": "Purva Ashadha",
+              "pada": 4
+            },
+            "house": 2
+          },
+          {
+            "planet": "Mercury",
+            "point": {
+              "sign": "Libra",
+              "degree": 13.446,
+              "absoluteDegree": 193.446,
+              "nakshatra": "Swati",
+              "pada": 3
+            },
+            "house": 12
+          },
+          {
+            "planet": "Venus",
+            "point": {
+              "sign": "Libra",
+              "degree": 17.4625,
+              "absoluteDegree": 197.4625,
+              "nakshatra": "Swati",
+              "pada": 4
+            },
+            "house": 12
+          },
+          {
+            "planet": "Mars",
+            "point": {
+              "sign": "Scorpio",
+              "degree": 12.593,
+              "absoluteDegree": 222.593,
+              "nakshatra": "Anuradha",
+              "pada": 3
+            },
+            "house": 1
+          },
+          {
+            "planet": "Jupiter",
+            "point": {
+              "sign": "Libra",
+              "degree": 7.7264,
+              "absoluteDegree": 187.7264,
+              "nakshatra": "Swati",
+              "pada": 1
+            },
+            "house": 12
+          },
+          {
+            "planet": "Saturn",
+            "point": {
+              "sign": "Aquarius",
+              "degree": 0.1703,
+              "absoluteDegree": 300.1703,
+              "nakshatra": "Dhanishta",
+              "pada": 3
+            },
+            "house": 4
+          },
+          {
+            "planet": "Rahu",
+            "point": {
+              "sign": "Scorpio",
+              "degree": 9.6488,
+              "absoluteDegree": 219.6488,
+              "nakshatra": "Anuradha",
+              "pada": 2
+            },
+            "house": 1
+          },
+          {
+            "planet": "Ketu",
+            "point": {
+              "sign": "Taurus",
+              "degree": 9.6488,
+              "absoluteDegree": 39.6488,
+              "nakshatra": "Krittika",
+              "pada": 4
+            },
+            "house": 7
+          }
+        ],
+        "dasha": {
+          "mahadasha": "Rahu",
+          "antardasha": "Saturn",
+          "balanceYearsAtBirth": 1.69
+        },
+        "numerology": {
+          "birthNumber": 9,
+          "lifePathNumber": 6,
+          "personalYearNumber": 3,
+          "personalDayNumber": 5
+        },
+        "transits": [
+          {
+            "planet": "Sun",
+            "point": {
+              "sign": "Gemini",
+              "degree": 7.6115,
+              "absoluteDegree": 67.6115,
+              "nakshatra": "Ardra",
+              "pada": 1
+            },
+            "house": 8
+          },
+          {
+            "planet": "Moon",
+            "point": {
+              "sign": "Virgo",
+              "degree": 22.4551,
+              "absoluteDegree": 172.4551,
+              "nakshatra": "Hasta",
+              "pada": 4
+            },
+            "house": 11
+          },
+          {
+            "planet": "Mercury",
+            "point": {
+              "sign": "Cancer",
+              "degree": 0.444,
+              "absoluteDegree": 90.444,
+              "nakshatra": "Punarvasu",
+              "pada": 4
+            },
+            "house": 9
+          },
+          {
+            "planet": "Venus",
+            "point": {
+              "sign": "Cancer",
+              "degree": 17.1454,
+              "absoluteDegree": 107.1454,
+              "nakshatra": "Ashlesha",
+              "pada": 1
+            },
+            "house": 9
+          },
+          {
+            "planet": "Mars",
+            "point": {
+              "sign": "Taurus",
+              "degree": 1.804,
+              "absoluteDegree": 31.804,
+              "nakshatra": "Krittika",
+              "pada": 2
+            },
+            "house": 7
+          },
+          {
+            "planet": "Jupiter",
+            "point": {
+              "sign": "Cancer",
+              "degree": 4.3194,
+              "absoluteDegree": 94.3194,
+              "nakshatra": "Pushya",
+              "pada": 1
+            },
+            "house": 9
+          },
+          {
+            "planet": "Saturn",
+            "point": {
+              "sign": "Pisces",
+              "degree": 19.4574,
+              "absoluteDegree": 349.4574,
+              "nakshatra": "Revati",
+              "pada": 1
+            },
+            "house": 5
+          },
+          {
+            "planet": "Rahu",
+            "point": {
+              "sign": "Aquarius",
+              "degree": 8.7673,
+              "absoluteDegree": 308.7673,
+              "nakshatra": "Shatabhisha",
+              "pada": 1
+            },
+            "house": 4
+          },
+          {
+            "planet": "Ketu",
+            "point": {
+              "sign": "Leo",
+              "degree": 8.7673,
+              "absoluteDegree": 128.7673,
+              "nakshatra": "Magha",
+              "pada": 3
+            },
+            "house": 10
+          }
+        ]
+      },
+      "reading": {
+        "headline": "**A focused day for wise moves, calm words, and dignified restraint.**",
+        "summary": "Aarav, today carries a mix of opportunity and intensity. The Moon in your 11th house supports gains through networks, friends, teams, and visibility. At the same time, the Sun in the 8th and Mars in the 7th ask you to avoid ego clashes, rushed reactions, or forcing outcomes. Move like a strategist: observe first, speak second, act cleanly.",
+        "love": "Relationships may feel slightly sensitive because Mars is transiting your 7th house, while natal Ketu already sits in the 7th. Keep your tone soft, especially if a partner or close person seems stubborn. A simple, honest conversation will work better than proving a point.",
+        "career": "The Moon in the 11th house is favourable for professional outreach, follow-ups, meetings, team support, and getting noticed by the right people. Ketu in transit through your 10th house, however, may make you feel detached from routine work. Do the important tasks without overthinking recognition today.",
+        "money": "Your natal Moon in the 2nd house makes financial security emotionally important, and today’s 11th-house Moon can support practical gains or useful contacts. Still, with the Sun transiting the 8th house, avoid impulsive spending, risky speculation, or signing anything without checking details.",
+        "mind": "Rahu Mahadasha with Saturn Antardasha can make the mind serious, ambitious, and occasionally heavy. Saturn transiting your 5th house asks for disciplined thinking. Use the day for planning, learning, and simplifying decisions rather than mentally replaying every scenario.",
+        "doActions": [
+          "Reconnect with one helpful contact or senior person.",
+          "Finish one pending financial or documentation task carefully.",
+          "Speak calmly in close relationships, especially if disagreement arises."
+        ],
+        "dontActions": [
+          "Do not react sharply to a partner, client, or collaborator.",
+          "Do not make risky money decisions based on excitement or fear.",
+          "Do not ignore small details in paperwork, messages, or commitments."
+        ],
+        "luckySupports": {
+          "colors": [
+            "deep blue",
+            "white",
+            "forest green"
+          ],
+          "numbers": [
+            5,
+            6,
+            9
+          ],
+          "mantra": "Om Sham Shanicharaya Namah — chant slowly for steadiness and patience."
+        },
+        "astroEvidence": [
+          "Scorpio ascendant with natal Sun, Mars, and Rahu in the 1st house gives strong willpower, intensity, and a bold personal presence.",
+          "Natal Moon is in Sagittarius in the 2nd house, connecting emotions with speech, family values, and financial security.",
+          "Current Moon is transiting Virgo in the 11th house, supporting gains, networking, friends, and fulfilment of practical goals.",
+          "Current Sun is transiting Gemini in the 8th house, favouring caution, research, privacy, and careful handling of sensitive matters.",
+          "Current Mars is transiting Taurus in the 7th house, increasing heat in partnerships and one-to-one dealings; natal Ketu is also in the 7th house in Taurus gardened by detachment themes. Corrected: natal Ketu is in Taurus in the 7th house, showing karmic lessons around partnership balance and non-attachment.田田ך田ך"
+        ],
+        "safetyDisclaimer": "This is a spiritual and reflective Vedic astrology reading, not a guarantee of events or a substitute for professional financial, legal, medical, or mental health advice."
+      },
+      "displayedInAppAs": {
+        "hero": {
+          "headline": "**A focused day for wise moves, calm words, and dignified restraint.**",
+          "summary": "Aarav, today carries a mix of opportunity and intensity. The Moon in your 11th house supports gains through networks, friends, teams, and visibility. At the same time, the Sun in the 8th and Mars in the 7th ask you to avoid ego clashes, rushed reactions, or forcing outcomes. Move like a strategist: observe first, speak second, act cleanly."
+        },
+        "chartSnapshot": {
+          "ascendant": "Scorpio 0.9",
+          "moon": "Sagittarius / Purva Ashadha",
+          "dasha": "Rahu-Saturn",
+          "saturn": "Pisces / H5",
+          "lifePath": 6
+        },
+        "lanes": {
+          "love": "Relationships may feel slightly sensitive because Mars is transiting your 7th house, while natal Ketu already sits in the 7th. Keep your tone soft, especially if a partner or close person seems stubborn. A simple, honest conversation will work better than proving a point.",
+          "career": "The Moon in the 11th house is favourable for professional outreach, follow-ups, meetings, team support, and getting noticed by the right people. Ketu in transit through your 10th house, however, may make you feel detached from routine work. Do the important tasks without overthinking recognition today.",
+          "money": "Your natal Moon in the 2nd house makes financial security emotionally important, and today’s 11th-house Moon can support practical gains or useful contacts. Still, with the Sun transiting the 8th house, avoid impulsive spending, risky speculation, or signing anything without checking details.",
+          "mind": "Rahu Mahadasha with Saturn Antardasha can make the mind serious, ambitious, and occasionally heavy. Saturn transiting your 5th house asks for disciplined thinking. Use the day for planning, learning, and simplifying decisions rather than mentally replaying every scenario."
+        },
+        "actions": {
+          "do": [
+            "Reconnect with one helpful contact or senior person.",
+            "Finish one pending financial or documentation task carefully.",
+            "Speak calmly in close relationships, especially if disagreement arises."
+          ],
+          "avoid": [
+            "Do not react sharply to a partner, client, or collaborator.",
+            "Do not make risky money decisions based on excitement or fear.",
+            "Do not ignore small details in paperwork, messages, or commitments."
+          ]
+        },
+        "evidence": [
+          "Scorpio ascendant with natal Sun, Mars, and Rahu in the 1st house gives strong willpower, intensity, and a bold personal presence.",
+          "Natal Moon is in Sagittarius in the 2nd house, connecting emotions with speech, family values, and financial security.",
+          "Current Moon is transiting Virgo in the 11th house, supporting gains, networking, friends, and fulfilment of practical goals.",
+          "Current Sun is transiting Gemini in the 8th house, favouring caution, research, privacy, and careful handling of sensitive matters.",
+          "Current Mars is transiting Taurus in the 7th house, increasing heat in partnerships and one-to-one dealings; natal Ketu is also in the 7th house in Taurus gardened by detachment themes. Corrected: natal Ketu is in Taurus in the 7th house, showing karmic lessons around partnership balance and non-attachment.田田ך田ך"
+        ]
+      },
+      "memoryAfterDailyReading": {
+        "problemCount": 0,
+        "recentProblems": [],
+        "categoryCounts": {},
+        "solutionHistory": []
+      },
+      "validation": {
+        "hasAllReadingKeys": true,
+        "hasRequiredSections": true,
+        "hasThreeDoActions": true,
+        "hasThreeDontActions": true,
+        "hasAstroEvidence": true,
+        "remoteRendered": true
+      }
+    },
+    {
+      "case": 2,
+      "userId": "beta-run-2026-06-23_08-45-39-02",
+      "profile": {
+        "fullName": "Meera Iyer",
+        "birthDate": "1988-04-02",
+        "birthTime": "14:15",
+        "birthTimeConfidence": "exact",
+        "birthplaceText": "Chennai, Tamil Nadu, India",
+        "latitude": 13.0827,
+        "longitude": 80.2707,
+        "timezone": "Asia/Kolkata",
+        "language": "en-IN",
+        "consent": {
+          "privacyAccepted": true,
+          "aiPersonalization": true,
+          "marketingOptIn": false
+        }
+      },
+      "placeSearch": {
+        "query": "Chennai",
+        "selected": {
+          "id": "seed-chennai",
+          "label": "Chennai, Tamil Nadu, India",
+          "latitude": 13.0827,
+          "longitude": 80.2707,
+          "timezone": "Asia/Kolkata",
+          "source": "seed"
+        },
+        "resultCount": 3
+      },
+      "chart": {
+        "profile": {
+          "fullName": "Meera Iyer",
+          "birthDate": "1988-04-02",
+          "birthTime": "14:15",
+          "birthTimeConfidence": "exact",
+          "birthplaceText": "Chennai, Tamil Nadu, India",
+          "latitude": 13.0827,
+          "longitude": 80.2707,
+          "timezone": "Asia/Kolkata",
+          "language": "en-IN",
+          "consent": {
+            "privacyAccepted": true,
+            "aiPersonalization": true,
+            "marketingOptIn": false
+          }
+        },
+        "generatedFor": "2026-06-23",
+        "ayanamsa": "Lahiri approx 23.6926",
+        "calculationEngine": "Compact orbital fallback + Lahiri approximation",
+        "ascendant": {
+          "sign": "Cancer",
+          "degree": 20.2588,
+          "absoluteDegree": 110.2588,
+          "nakshatra": "Ashlesha",
+          "pada": 2
+        },
+        "moon": {
+          "sign": "Virgo",
+          "degree": 18.1461,
+          "absoluteDegree": 168.1461,
+          "nakshatra": "Hasta",
+          "pada": 3
+        },
+        "sun": {
+          "sign": "Pisces",
+          "degree": 19.1422,
+          "absoluteDegree": 349.1422,
+          "nakshatra": "Revati",
+          "pada": 1
+        },
+        "planets": [
+          {
+            "planet": "Sun",
+            "point": {
+              "sign": "Pisces",
+              "degree": 19.1422,
+              "absoluteDegree": 349.1422,
+              "nakshatra": "Revati",
+              "pada": 1
+            },
+            "house": 9
+          },
+          {
+            "planet": "Moon",
+            "point": {
+              "sign": "Virgo",
+              "degree": 18.1461,
+              "absoluteDegree": 168.1461,
+              "nakshatra": "Hasta",
+              "pada": 3
+            },
+            "house": 3
+          },
+          {
+            "planet": "Mercury",
+            "point": {
+              "sign": "Pisces",
+              "degree": 1.8752,
+              "absoluteDegree": 331.8752,
+              "nakshatra": "Purva Bhadrapada",
+              "pada": 4
+            },
+            "house": 9
+          },
+          {
+            "planet": "Venus",
+            "point": {
+              "sign": "Taurus",
+              "degree": 4.9802,
+              "absoluteDegree": 34.9802,
+              "nakshatra": "Krittika",
+              "pada": 3
+            },
+            "house": 11
+          },
+          {
+            "planet": "Mars",
+            "point": {
+              "sign": "Capricorn",
+              "degree": 3.2527,
+              "absoluteDegree": 273.2527,
+              "nakshatra": "Uttara Ashadha",
+              "pada": 2
+            },
+            "house": 7
+          },
+          {
+            "planet": "Jupiter",
+            "point": {
+              "sign": "Aries",
+              "degree": 11.8396,
+              "absoluteDegree": 11.8396,
+              "nakshatra": "Ashwini",
+              "pada": 4
+            },
+            "house": 10
+          },
+          {
+            "planet": "Saturn",
+            "point": {
+              "sign": "Sagittarius",
+              "degree": 8.9347,
+              "absoluteDegree": 248.9347,
+              "nakshatra": "Mula",
+              "pada": 3
+            },
+            "house": 6
+          },
+          {
+            "planet": "Rahu",
+            "point": {
+              "sign": "Aquarius",
+              "degree": 28.5837,
+              "absoluteDegree": 328.5837,
+              "nakshatra": "Purva Bhadrapada",
+              "pada": 3
+            },
+            "house": 8
+          },
+          {
+            "planet": "Ketu",
+            "point": {
+              "sign": "Leo",
+              "degree": 28.5837,
+              "absoluteDegree": 148.5837,
+              "nakshatra": "Uttara Phalguni",
+              "pada": 1
+            },
+            "house": 2
+          }
+        ],
+        "dasha": {
+          "mahadasha": "Jupiter",
+          "antardasha": "Venus",
+          "balanceYearsAtBirth": 3.89
+        },
+        "numerology": {
+          "birthNumber": 2,
+          "lifePathNumber": 5,
+          "personalYearNumber": 7,
+          "personalDayNumber": 9
+        },
+        "transits": [
+          {
+            "planet": "Sun",
+            "point": {
+              "sign": "Gemini",
+              "degree": 7.6115,
+              "absoluteDegree": 67.6115,
+              "nakshatra": "Ardra",
+              "pada": 1
+            },
+            "house": 12
+          },
+          {
+            "planet": "Moon",
+            "point": {
+              "sign": "Virgo",
+              "degree": 22.4551,
+              "absoluteDegree": 172.4551,
+              "nakshatra": "Hasta",
+              "pada": 4
+            },
+            "house": 3
+          },
+          {
+            "planet": "Mercury",
+            "point": {
+              "sign": "Cancer",
+              "degree": 0.444,
+              "absoluteDegree": 90.444,
+              "nakshatra": "Punarvasu",
+              "pada": 4
+            },
+            "house": 1
+          },
+          {
+            "planet": "Venus",
+            "point": {
+              "sign": "Cancer",
+              "degree": 17.1454,
+              "absoluteDegree": 107.1454,
+              "nakshatra": "Ashlesha",
+              "pada": 1
+            },
+            "house": 1
+          },
+          {
+            "planet": "Mars",
+            "point": {
+              "sign": "Taurus",
+              "degree": 1.804,
+              "absoluteDegree": 31.804,
+              "nakshatra": "Krittika",
+              "pada": 2
+            },
+            "house": 11
+          },
+          {
+            "planet": "Jupiter",
+            "point": {
+              "sign": "Cancer",
+              "degree": 4.3194,
+              "absoluteDegree": 94.3194,
+              "nakshatra": "Pushya",
+              "pada": 1
+            },
+            "house": 1
+          },
+          {
+            "planet": "Saturn",
+            "point": {
+              "sign": "Pisces",
+              "degree": 19.4574,
+              "absoluteDegree": 349.4574,
+              "nakshatra": "Revati",
+              "pada": 1
+            },
+            "house": 9
+          },
+          {
+            "planet": "Rahu",
+            "point": {
+              "sign": "Aquarius",
+              "degree": 8.7673,
+              "absoluteDegree": 308.7673,
+              "nakshatra": "Shatabhisha",
+              "pada": 1
+            },
+            "house": 8
+          },
+          {
+            "planet": "Ketu",
+            "point": {
+              "sign": "Leo",
+              "degree": 8.7673,
+              "absoluteDegree": 128.7673,
+              "nakshatra": "Magha",
+              "pada": 3
+            },
+            "house": 2
+          }
+        ]
+      },
+      "reading": {
+        "headline": "**Meera, today favours graceful visibility with quiet inner discipline.**",
+        "summary": "With **Jupiter, Venus and Mercury moving through your Cancer Lagna**, your presence feels softer, wiser and more attractive today. At the same time, the **Sun in the 12th house** asks for rest, privacy and mindful expenditure. Keep the day elegant: speak clearly, choose quality over speed, and let intuition guide timing.",
+        "love": "**Warmth returns through gentle words.** Venus in your 1st house makes you more magnetic, but Ashlesha energy can make emotions intense or protective. If partnered, avoid testing the other person; ask directly. If single, a calm, intelligent conversation may feel more promising than dramatic chemistry.",
+        "career": "**Your voice is your advantage today.** The Moon in Virgo in your 3rd house supports writing, calls, presentations, follow-ups and practical communication. Jupiter in your Lagna adds credibility, while Saturn over your 9th-house Pisces zone reminds you to respect process, mentors, policy and long-term learning.",
+        "money": "**Spend with awareness, not mood.** Sun in the 12th can bring expenses around comfort, travel, subscriptions or behind-the-scenes needs. Mars in the 11th supports active networking and income efforts, but avoid impulsive purchases or lending decisions. Review before you commit.",
+        "mind": "**A sensitive but capable day.** Your natal Moon is in Hasta, and today’s Moon also moves through Virgo/Hasta, sharpening observation and mental restlessness. Use the hands: writing, organising, cooking, art, prayer beads or simple tidying can settle the mind beautifully.",
+        "doActions": [
+          "Send the important message, proposal or follow-up before overthinking it.",
+          "Wear something soothing and polished; your Lagna is strongly activated.",
+          "Keep one private hour for rest, prayer, journaling or silent planning."
+        ],
+        "dontActions": [
+          "Do not overshare family, money or emotional matters in casual spaces.",
+          "Do not make a purchase only to soothe stress.",
+          "Do not argue with mentors, seniors or belief systems; choose maturity over proving a point."
+        ],
+        "luckySupports": {
+          "colors": [
+            "pearl white",
+            "soft green",
+            "lotus pink"
+          ],
+          "numbers": [
+            2,
+            5,
+            9
+          ],
+          "mantra": "**Om Gurave Namah** — repeat 9 or 27 times for clarity and grace."
+        },
+        "astroEvidence": [
+          "Cancer Ascendant in Ashlesha; today Mercury, Venus and Jupiter are transiting Cancer in your 1st house, highlighting presence, speech, charm and self-renewal.",
+          "Natal Moon is Virgo Hasta in the 3rd house; today’s Moon is also in Virgo Hasta in the 3rd, supporting communication, skill, writing and practical action.",
+          "Sun is transiting Gemini in your 12th house, suggesting privacy, rest, spiritual reflection and mindful expenses.",
+          "Transit Saturn in Pisces Revati is in your 9th house and closely aligned with your natal Sun in Pisces Revati, bringing seriousness around dharma, mentors, learning and long-range direction.",
+          "Current dasha is Jupiter Mahadasha with Venus Antardasha, matching today’s strong Jupiter–Venus emphasis on growth, refinement, relationships and grace."
+        ],
+        "safetyDisclaimer": "This is a spiritual astrology reading for reflection and planning, not a guarantee of events or a substitute for professional financial, medical, legal or mental-health advice."
+      },
+      "displayedInAppAs": {
+        "hero": {
+          "headline": "**Meera, today favours graceful visibility with quiet inner discipline.**",
+          "summary": "With **Jupiter, Venus and Mercury moving through your Cancer Lagna**, your presence feels softer, wiser and more attractive today. At the same time, the **Sun in the 12th house** asks for rest, privacy and mindful expenditure. Keep the day elegant: speak clearly, choose quality over speed, and let intuition guide timing."
+        },
+        "chartSnapshot": {
+          "ascendant": "Cancer 20.3",
+          "moon": "Virgo / Hasta",
+          "dasha": "Jupiter-Venus",
+          "saturn": "Pisces / H9",
+          "lifePath": 5
+        },
+        "lanes": {
+          "love": "**Warmth returns through gentle words.** Venus in your 1st house makes you more magnetic, but Ashlesha energy can make emotions intense or protective. If partnered, avoid testing the other person; ask directly. If single, a calm, intelligent conversation may feel more promising than dramatic chemistry.",
+          "career": "**Your voice is your advantage today.** The Moon in Virgo in your 3rd house supports writing, calls, presentations, follow-ups and practical communication. Jupiter in your Lagna adds credibility, while Saturn over your 9th-house Pisces zone reminds you to respect process, mentors, policy and long-term learning.",
+          "money": "**Spend with awareness, not mood.** Sun in the 12th can bring expenses around comfort, travel, subscriptions or behind-the-scenes needs. Mars in the 11th supports active networking and income efforts, but avoid impulsive purchases or lending decisions. Review before you commit.",
+          "mind": "**A sensitive but capable day.** Your natal Moon is in Hasta, and today’s Moon also moves through Virgo/Hasta, sharpening observation and mental restlessness. Use the hands: writing, organising, cooking, art, prayer beads or simple tidying can settle the mind beautifully."
+        },
+        "actions": {
+          "do": [
+            "Send the important message, proposal or follow-up before overthinking it.",
+            "Wear something soothing and polished; your Lagna is strongly activated.",
+            "Keep one private hour for rest, prayer, journaling or silent planning."
+          ],
+          "avoid": [
+            "Do not overshare family, money or emotional matters in casual spaces.",
+            "Do not make a purchase only to soothe stress.",
+            "Do not argue with mentors, seniors or belief systems; choose maturity over proving a point."
+          ]
+        },
+        "evidence": [
+          "Cancer Ascendant in Ashlesha; today Mercury, Venus and Jupiter are transiting Cancer in your 1st house, highlighting presence, speech, charm and self-renewal.",
+          "Natal Moon is Virgo Hasta in the 3rd house; today’s Moon is also in Virgo Hasta in the 3rd, supporting communication, skill, writing and practical action.",
+          "Sun is transiting Gemini in your 12th house, suggesting privacy, rest, spiritual reflection and mindful expenses.",
+          "Transit Saturn in Pisces Revati is in your 9th house and closely aligned with your natal Sun in Pisces Revati, bringing seriousness around dharma, mentors, learning and long-range direction.",
+          "Current dasha is Jupiter Mahadasha with Venus Antardasha, matching today’s strong Jupiter–Venus emphasis on growth, refinement, relationships and grace."
+        ]
+      },
+      "memoryAfterDailyReading": {
+        "problemCount": 0,
+        "recentProblems": [],
+        "categoryCounts": {},
+        "solutionHistory": []
+      },
+      "validation": {
+        "hasAllReadingKeys": true,
+        "hasRequiredSections": true,
+        "hasThreeDoActions": true,
+        "hasThreeDontActions": true,
+        "hasAstroEvidence": true,
+        "remoteRendered": true
+      }
+    },
+    {
+      "case": 3,
+      "userId": "beta-run-2026-06-23_08-45-39-03",
+      "profile": {
+        "fullName": "Rohan Mehta",
+        "birthDate": "1995-09-30",
+        "birthTime": "21:05",
+        "birthTimeConfidence": "exact",
+        "birthplaceText": "Mumbai, Maharashtra, India",
+        "latitude": 19.076,
+        "longitude": 72.8777,
+        "timezone": "Asia/Kolkata",
+        "language": "en-IN",
+        "consent": {
+          "privacyAccepted": true,
+          "aiPersonalization": true,
+          "marketingOptIn": false
+        }
+      },
+      "placeSearch": {
+        "query": "Mumbai",
+        "selected": {
+          "id": "seed-mumbai",
+          "label": "Mumbai, Maharashtra, India",
+          "latitude": 19.076,
+          "longitude": 72.8777,
+          "timezone": "Asia/Kolkata",
+          "source": "seed"
+        },
+        "resultCount": 2
+      },
+      "chart": {
+        "profile": {
+          "fullName": "Rohan Mehta",
+          "birthDate": "1995-09-30",
+          "birthTime": "21:05",
+          "birthTimeConfidence": "exact",
+          "birthplaceText": "Mumbai, Maharashtra, India",
+          "latitude": 19.076,
+          "longitude": 72.8777,
+          "timezone": "Asia/Kolkata",
+          "language": "en-IN",
+          "consent": {
+            "privacyAccepted": true,
+            "aiPersonalization": true,
+            "marketingOptIn": false
+          }
+        },
+        "generatedFor": "2026-06-23",
+        "ayanamsa": "Lahiri approx 23.7973",
+        "calculationEngine": "Compact orbital fallback + Lahiri approximation",
+        "ascendant": {
+          "sign": "Taurus",
+          "degree": 0.9183,
+          "absoluteDegree": 30.9183,
+          "nakshatra": "Krittika",
+          "pada": 2
+        },
+        "moon": {
+          "sign": "Scorpio",
+          "degree": 29.5433,
+          "absoluteDegree": 239.5433,
+          "nakshatra": "Jyeshtha",
+          "pada": 4
+        },
+        "sun": {
+          "sign": "Virgo",
+          "degree": 13.2125,
+          "absoluteDegree": 163.2125,
+          "nakshatra": "Hasta",
+          "pada": 1
+        },
+        "planets": [
+          {
+            "planet": "Sun",
+            "point": {
+              "sign": "Virgo",
+              "degree": 13.2125,
+              "absoluteDegree": 163.2125,
+              "nakshatra": "Hasta",
+              "pada": 1
+            },
+            "house": 5
+          },
+          {
+            "planet": "Moon",
+            "point": {
+              "sign": "Scorpio",
+              "degree": 29.5433,
+              "absoluteDegree": 239.5433,
+              "nakshatra": "Jyeshtha",
+              "pada": 4
+            },
+            "house": 7
+          },
+          {
+            "planet": "Mercury",
+            "point": {
+              "sign": "Virgo",
+              "degree": 22.3661,
+              "absoluteDegree": 172.3661,
+              "nakshatra": "Hasta",
+              "pada": 4
+            },
+            "house": 5
+          },
+          {
+            "planet": "Venus",
+            "point": {
+              "sign": "Virgo",
+              "degree": 24.1751,
+              "absoluteDegree": 174.1751,
+              "nakshatra": "Chitra",
+              "pada": 1
+            },
+            "house": 5
+          },
+          {
+            "planet": "Mars",
+            "point": {
+              "sign": "Libra",
+              "degree": 21.9874,
+              "absoluteDegree": 201.9874,
+              "nakshatra": "Vishakha",
+              "pada": 1
+            },
+            "house": 6
+          },
+          {
+            "planet": "Jupiter",
+            "point": {
+              "sign": "Scorpio",
+              "degree": 16.5191,
+              "absoluteDegree": 226.5191,
+              "nakshatra": "Anuradha",
+              "pada": 4
+            },
+            "house": 7
+          },
+          {
+            "planet": "Saturn",
+            "point": {
+              "sign": "Aquarius",
+              "degree": 26.161,
+              "absoluteDegree": 326.161,
+              "nakshatra": "Purva Bhadrapada",
+              "pada": 2
+            },
+            "house": 10
+          },
+          {
+            "planet": "Rahu",
+            "point": {
+              "sign": "Libra",
+              "degree": 3.5294,
+              "absoluteDegree": 183.5294,
+              "nakshatra": "Chitra",
+              "pada": 4
+            },
+            "house": 6
+          },
+          {
+            "planet": "Ketu",
+            "point": {
+              "sign": "Aries",
+              "degree": 3.5294,
+              "absoluteDegree": 3.5294,
+              "nakshatra": "Ashwini",
+              "pada": 2
+            },
+            "house": 12
+          }
+        ],
+        "dasha": {
+          "mahadasha": "Sun",
+          "antardasha": "Saturn",
+          "balanceYearsAtBirth": 0.58
+        },
+        "numerology": {
+          "birthNumber": 3,
+          "lifePathNumber": 9,
+          "personalYearNumber": 4,
+          "personalDayNumber": 6
+        },
+        "transits": [
+          {
+            "planet": "Sun",
+            "point": {
+              "sign": "Gemini",
+              "degree": 7.6115,
+              "absoluteDegree": 67.6115,
+              "nakshatra": "Ardra",
+              "pada": 1
+            },
+            "house": 2
+          },
+          {
+            "planet": "Moon",
+            "point": {
+              "sign": "Virgo",
+              "degree": 22.4551,
+              "absoluteDegree": 172.4551,
+              "nakshatra": "Hasta",
+              "pada": 4
+            },
+            "house": 5
+          },
+          {
+            "planet": "Mercury",
+            "point": {
+              "sign": "Cancer",
+              "degree": 0.444,
+              "absoluteDegree": 90.444,
+              "nakshatra": "Punarvasu",
+              "pada": 4
+            },
+            "house": 3
+          },
+          {
+            "planet": "Venus",
+            "point": {
+              "sign": "Cancer",
+              "degree": 17.1454,
+              "absoluteDegree": 107.1454,
+              "nakshatra": "Ashlesha",
+              "pada": 1
+            },
+            "house": 3
+          },
+          {
+            "planet": "Mars",
+            "point": {
+              "sign": "Taurus",
+              "degree": 1.804,
+              "absoluteDegree": 31.804,
+              "nakshatra": "Krittika",
+              "pada": 2
+            },
+            "house": 1
+          },
+          {
+            "planet": "Jupiter",
+            "point": {
+              "sign": "Cancer",
+              "degree": 4.3194,
+              "absoluteDegree": 94.3194,
+              "nakshatra": "Pushya",
+              "pada": 1
+            },
+            "house": 3
+          },
+          {
+            "planet": "Saturn",
+            "point": {
+              "sign": "Pisces",
+              "degree": 19.4574,
+              "absoluteDegree": 349.4574,
+              "nakshatra": "Revati",
+              "pada": 1
+            },
+            "house": 11
+          },
+          {
+            "planet": "Rahu",
+            "point": {
+              "sign": "Aquarius",
+              "degree": 8.7673,
+              "absoluteDegree": 308.7673,
+              "nakshatra": "Shatabhisha",
+              "pada": 1
+            },
+            "house": 10
+          },
+          {
+            "planet": "Ketu",
+            "point": {
+              "sign": "Leo",
+              "degree": 8.7673,
+              "absoluteDegree": 128.7673,
+              "nakshatra": "Magha",
+              "pada": 3
+            },
+            "house": 4
+          }
+        ]
+      },
+      "reading": {
+        "headline": "A sharp, high-focus day — speak softly, execute boldly.",
+        "summary": "Rohan, today carries a refined but intense current. Mars is crossing your Taurus ascendant zone, giving drive, presence and impatience in equal measure. The Moon in Virgo activates your 5th house of intelligence, creativity and decision-making, very close to your natal Mercury — excellent for analysis, writing, presentations and solving a tricky matter. Keep the royal calm; your words will carry weight.",
+        "love": "In relationships, avoid testing the other person’s loyalty through silence or sharp remarks. Your natal Moon in Scorpio already feels deeply, and today’s Virgo Moon can make you over-read small details. Choose one warm, clear message instead of a long emotional audit. If single, a conversation through work, study, travel or online exchange may feel mentally engaging.",
+        "career": "Strong day for drafting, pitching, coding, studying, strategy, client communication and fixing errors. Rahu transiting your 10th house can bring unusual visibility or unconventional work demands, while Saturn in the 11th asks you to build results slowly through networks. Do not chase applause today; chase precision. A senior or structured system may become important under Sun–Saturn dasha influence.",
+        "money": "Sun transiting your 2nd house puts focus on income, speech and family-linked responsibilities. Good day to review budgets, invoices, subscriptions or pending payments. Avoid impulsive spending for image, gadgets or comfort because Mars on the ascendant may push quick decisions. Keep money moves practical and documented.",
+        "mind": "Your mind is fast today, almost too fast. The Moon over Virgo can make you productive, but also perfectionistic. Ground your nervous energy through a clean workspace, a short walk, and one list with only three priorities. Personal Day 6 supports harmony, responsibility and beautifying your environment — use it to bring order, not pressure.",
+        "doActions": [
+          "Send the important message, but edit it once before sending.",
+          "Use the first half of the day for analytical or creative work.",
+          "Take initiative in career matters without sounding defensive."
+        ],
+        "dontActions": [
+          "Do not argue just to prove competence.",
+          "Do not make rushed purchases or promises.",
+          "Do not overanalyse a partner’s tone or delayed reply."
+        ],
+        "luckySupports": {
+          "colors": [
+            "ivory",
+            "forest green",
+            "soft blue"
+          ],
+          "numbers": [
+            3,
+            6,
+            9
+          ],
+          "mantra": "Om Budhaya Namah — for clarity, skill and graceful speech."
+        },
+        "astroEvidence": [
+          "Taurus ascendant at Krittika pada 2; transit Mars in Taurus house 1, close to the ascendant, increasing drive and impatience.",
+          "Transit Moon in Virgo house 5 at Hasta pada 4, very close to natal Mercury in Virgo house 5, supporting writing, analysis and intelligent decisions.",
+          "Natal Sun, Mercury and Venus are all in Virgo house 5, making precision, creativity and discernment key life themes activated today.",
+          "Transit Sun in Gemini house 2 highlights speech, family matters and money management.",
+          "Transit Mercury, Venus and Jupiter in Cancer house 3 support communication, learning, short travel and networking with grace and wisdom."
+        ],
+        "safetyDisclaimer": "This is a spiritual and reflective Vedic astrology reading, not a guarantee of events or a substitute for professional financial, legal, medical or mental-health advice."
+      },
+      "displayedInAppAs": {
+        "hero": {
+          "headline": "A sharp, high-focus day — speak softly, execute boldly.",
+          "summary": "Rohan, today carries a refined but intense current. Mars is crossing your Taurus ascendant zone, giving drive, presence and impatience in equal measure. The Moon in Virgo activates your 5th house of intelligence, creativity and decision-making, very close to your natal Mercury — excellent for analysis, writing, presentations and solving a tricky matter. Keep the royal calm; your words will carry weight."
+        },
+        "chartSnapshot": {
+          "ascendant": "Taurus 0.9",
+          "moon": "Scorpio / Jyeshtha",
+          "dasha": "Sun-Saturn",
+          "saturn": "Pisces / H11",
+          "lifePath": 9
+        },
+        "lanes": {
+          "love": "In relationships, avoid testing the other person’s loyalty through silence or sharp remarks. Your natal Moon in Scorpio already feels deeply, and today’s Virgo Moon can make you over-read small details. Choose one warm, clear message instead of a long emotional audit. If single, a conversation through work, study, travel or online exchange may feel mentally engaging.",
+          "career": "Strong day for drafting, pitching, coding, studying, strategy, client communication and fixing errors. Rahu transiting your 10th house can bring unusual visibility or unconventional work demands, while Saturn in the 11th asks you to build results slowly through networks. Do not chase applause today; chase precision. A senior or structured system may become important under Sun–Saturn dasha influence.",
+          "money": "Sun transiting your 2nd house puts focus on income, speech and family-linked responsibilities. Good day to review budgets, invoices, subscriptions or pending payments. Avoid impulsive spending for image, gadgets or comfort because Mars on the ascendant may push quick decisions. Keep money moves practical and documented.",
+          "mind": "Your mind is fast today, almost too fast. The Moon over Virgo can make you productive, but also perfectionistic. Ground your nervous energy through a clean workspace, a short walk, and one list with only three priorities. Personal Day 6 supports harmony, responsibility and beautifying your environment — use it to bring order, not pressure."
+        },
+        "actions": {
+          "do": [
+            "Send the important message, but edit it once before sending.",
+            "Use the first half of the day for analytical or creative work.",
+            "Take initiative in career matters without sounding defensive."
+          ],
+          "avoid": [
+            "Do not argue just to prove competence.",
+            "Do not make rushed purchases or promises.",
+            "Do not overanalyse a partner’s tone or delayed reply."
+          ]
+        },
+        "evidence": [
+          "Taurus ascendant at Krittika pada 2; transit Mars in Taurus house 1, close to the ascendant, increasing drive and impatience.",
+          "Transit Moon in Virgo house 5 at Hasta pada 4, very close to natal Mercury in Virgo house 5, supporting writing, analysis and intelligent decisions.",
+          "Natal Sun, Mercury and Venus are all in Virgo house 5, making precision, creativity and discernment key life themes activated today.",
+          "Transit Sun in Gemini house 2 highlights speech, family matters and money management.",
+          "Transit Mercury, Venus and Jupiter in Cancer house 3 support communication, learning, short travel and networking with grace and wisdom."
+        ]
+      },
+      "memoryAfterDailyReading": {
+        "problemCount": 0,
+        "recentProblems": [],
+        "categoryCounts": {},
+        "solutionHistory": []
+      },
+      "validation": {
+        "hasAllReadingKeys": true,
+        "hasRequiredSections": true,
+        "hasThreeDoActions": true,
+        "hasThreeDontActions": true,
+        "hasAstroEvidence": true,
+        "remoteRendered": true
+      }
+    },
+    {
+      "case": 4,
+      "userId": "beta-run-2026-06-23_08-45-39-04",
+      "profile": {
+        "fullName": "Priya Nair",
+        "birthDate": "1990-12-12",
+        "birthTime": "03:20",
+        "birthTimeConfidence": "approximate",
+        "birthplaceText": "Bengaluru, Karnataka, India",
+        "latitude": 12.9716,
+        "longitude": 77.5946,
+        "timezone": "Asia/Kolkata",
+        "language": "en-IN",
+        "consent": {
+          "privacyAccepted": true,
+          "aiPersonalization": true,
+          "marketingOptIn": false
+        }
+      },
+      "placeSearch": {
+        "query": "Bengaluru",
+        "selected": {
+          "id": "seed-bengaluru",
+          "label": "Bengaluru, Karnataka, India",
+          "latitude": 12.9716,
+          "longitude": 77.5946,
+          "timezone": "Asia/Kolkata",
+          "source": "seed"
+        },
+        "resultCount": 2
+      },
+      "chart": {
+        "profile": {
+          "fullName": "Priya Nair",
+          "birthDate": "1990-12-12",
+          "birthTime": "03:20",
+          "birthTimeConfidence": "approximate",
+          "birthplaceText": "Bengaluru, Karnataka, India",
+          "latitude": 12.9716,
+          "longitude": 77.5946,
+          "timezone": "Asia/Kolkata",
+          "language": "en-IN",
+          "consent": {
+            "privacyAccepted": true,
+            "aiPersonalization": true,
+            "marketingOptIn": false
+          }
+        },
+        "generatedFor": "2026-06-23",
+        "ayanamsa": "Lahiri approx 23.7303",
+        "calculationEngine": "Compact orbital fallback + Lahiri approximation",
+        "ascendant": {
+          "sign": "Libra",
+          "degree": 10.9128,
+          "absoluteDegree": 190.9128,
+          "nakshatra": "Swati",
+          "pada": 2
+        },
+        "moon": {
+          "sign": "Virgo",
+          "degree": 27.612,
+          "absoluteDegree": 177.612,
+          "nakshatra": "Chitra",
+          "pada": 2
+        },
+        "sun": {
+          "sign": "Scorpio",
+          "degree": 25.8727,
+          "absoluteDegree": 235.8727,
+          "nakshatra": "Jyeshtha",
+          "pada": 3
+        },
+        "planets": [
+          {
+            "planet": "Sun",
+            "point": {
+              "sign": "Scorpio",
+              "degree": 25.8727,
+              "absoluteDegree": 235.8727,
+              "nakshatra": "Jyeshtha",
+              "pada": 3
+            },
+            "house": 2
+          },
+          {
+            "planet": "Moon",
+            "point": {
+              "sign": "Virgo",
+              "degree": 27.612,
+              "absoluteDegree": 177.612,
+              "nakshatra": "Chitra",
+              "pada": 2
+            },
+            "house": 12
+          },
+          {
+            "planet": "Mercury",
+            "point": {
+              "sign": "Sagittarius",
+              "degree": 15.5554,
+              "absoluteDegree": 255.5554,
+              "nakshatra": "Purva Ashadha",
+              "pada": 1
+            },
+            "house": 3
+          },
+          {
+            "planet": "Venus",
+            "point": {
+              "sign": "Sagittarius",
+              "degree": 5.7863,
+              "absoluteDegree": 245.7863,
+              "nakshatra": "Mula",
+              "pada": 2
+            },
+            "house": 3
+          },
+          {
+            "planet": "Mars",
+            "point": {
+              "sign": "Taurus",
+              "degree": 6.8863,
+              "absoluteDegree": 36.8863,
+              "nakshatra": "Krittika",
+              "pada": 4
+            },
+            "house": 8
+          },
+          {
+            "planet": "Jupiter",
+            "point": {
+              "sign": "Cancer",
+              "degree": 19.5715,
+              "absoluteDegree": 109.5715,
+              "nakshatra": "Ashlesha",
+              "pada": 1
+            },
+            "house": 10
+          },
+          {
+            "planet": "Saturn",
+            "point": {
+              "sign": "Sagittarius",
+              "degree": 29.7453,
+              "absoluteDegree": 269.7453,
+              "nakshatra": "Uttara Ashadha",
+              "pada": 1
+            },
+            "house": 3
+          },
+          {
+            "planet": "Rahu",
+            "point": {
+              "sign": "Capricorn",
+              "degree": 6.4636,
+              "absoluteDegree": 276.4636,
+              "nakshatra": "Uttara Ashadha",
+              "pada": 3
+            },
+            "house": 4
+          },
+          {
+            "planet": "Ketu",
+            "point": {
+              "sign": "Cancer",
+              "degree": 6.4636,
+              "absoluteDegree": 96.4636,
+              "nakshatra": "Pushya",
+              "pada": 1
+            },
+            "house": 10
+          }
+        ],
+        "dasha": {
+          "mahadasha": "Jupiter",
+          "antardasha": "Mars",
+          "balanceYearsAtBirth": 4.75
+        },
+        "numerology": {
+          "birthNumber": 3,
+          "lifePathNumber": 7,
+          "personalYearNumber": 7,
+          "personalDayNumber": 9
+        },
+        "transits": [
+          {
+            "planet": "Sun",
+            "point": {
+              "sign": "Gemini",
+              "degree": 7.6115,
+              "absoluteDegree": 67.6115,
+              "nakshatra": "Ardra",
+              "pada": 1
+            },
+            "house": 9
+          },
+          {
+            "planet": "Moon",
+            "point": {
+              "sign": "Virgo",
+              "degree": 22.4551,
+              "absoluteDegree": 172.4551,
+              "nakshatra": "Hasta",
+              "pada": 4
+            },
+            "house": 12
+          },
+          {
+            "planet": "Mercury",
+            "point": {
+              "sign": "Cancer",
+              "degree": 0.444,
+              "absoluteDegree": 90.444,
+              "nakshatra": "Punarvasu",
+              "pada": 4
+            },
+            "house": 10
+          },
+          {
+            "planet": "Venus",
+            "point": {
+              "sign": "Cancer",
+              "degree": 17.1454,
+              "absoluteDegree": 107.1454,
+              "nakshatra": "Ashlesha",
+              "pada": 1
+            },
+            "house": 10
+          },
+          {
+            "planet": "Mars",
+            "point": {
+              "sign": "Taurus",
+              "degree": 1.804,
+              "absoluteDegree": 31.804,
+              "nakshatra": "Krittika",
+              "pada": 2
+            },
+            "house": 8
+          },
+          {
+            "planet": "Jupiter",
+            "point": {
+              "sign": "Cancer",
+              "degree": 4.3194,
+              "absoluteDegree": 94.3194,
+              "nakshatra": "Pushya",
+              "pada": 1
+            },
+            "house": 10
+          },
+          {
+            "planet": "Saturn",
+            "point": {
+              "sign": "Pisces",
+              "degree": 19.4574,
+              "absoluteDegree": 349.4574,
+              "nakshatra": "Revati",
+              "pada": 1
+            },
+            "house": 6
+          },
+          {
+            "planet": "Rahu",
+            "point": {
+              "sign": "Aquarius",
+              "degree": 8.7673,
+              "absoluteDegree": 308.7673,
+              "nakshatra": "Shatabhisha",
+              "pada": 1
+            },
+            "house": 5
+          },
+          {
+            "planet": "Ketu",
+            "point": {
+              "sign": "Leo",
+              "degree": 8.7673,
+              "absoluteDegree": 128.7673,
+              "nakshatra": "Magha",
+              "pada": 3
+            },
+            "house": 11
+          }
+        ]
+      },
+      "reading": {
+        "headline": "Priya, today is a quiet power day: refine your mind, protect your peace, and let career visibility rise naturally.",
+        "summary": "With the Moon moving through your 12th house and a strong 10th-house transit cluster, the day asks for calm execution rather than loud proving. Work, reputation, and guidance from seniors may become important, but your best results come when you stay private, prepared, and emotionally uncluttered.",
+        "love": "Keep conversations soft and spacious. The 12th-house Moon can make you read between the lines, so avoid assuming too much from someone’s tone. If attached, a gentle check-in works better than a heavy discussion. If single, attraction may feel subtle or private today rather than dramatic.",
+        "career": "This is the strongest area of the day. Mercury, Venus, and Jupiter transiting your 10th house support professional communication, visibility, and goodwill. Present ideas with polish, ask thoughtful questions, and let your competence speak. Since your natal Jupiter is also in the 10th house, guidance, teaching, leadership, or advisory roles can feel especially aligned.",
+        "money": "Be practical and avoid impulsive spending, especially on comfort, aesthetics, or emotional convenience. Mars in the 8th house transit suggests being careful with shared money, pending dues, taxes, subscriptions, or hidden costs. Review before committing; do not rush.",
+        "mind": "Your natal Moon is in Virgo in the 12th house, and today’s Moon is also transiting Virgo in the 12th. This can heighten intuition, dreams, overthinking, and the need for solitude. A short digital detox, journaling, or mantra practice can reset your energy beautifully.",
+        "doActions": [
+          "Finish one important work task before taking on new requests.",
+          "Keep communication clean, brief, and well-documented.",
+          "Review shared expenses, renewals, or pending payments carefully before approving anything."
+        ],
+        "dontActions": [
+          "Do not over-explain yourself to people who are not listening properly.",
+          "Do not make emotional purchases or quick financial commitments.",
+          "Do not ignore your need for silence, rest, or private reflection."
+        ],
+        "luckySupports": {
+          "colors": [
+            "ivory",
+            "deep green",
+            "royal blue"
+          ],
+          "numbers": [
+            3,
+            7,
+            9
+          ],
+          "mantra": "Om Gurave Namah — repeat 9 times before beginning important work."
+        },
+        "astroEvidence": [
+          "Libra ascendant in Swati pada 2 gives a diplomatic, graceful approach, but today benefits from firm boundaries.",
+          "Natal Moon is in Virgo, Chitra pada 2, in the 12th house; today’s transit Moon is also in Virgo in the 12th house, increasing introspection and sensitivity.",
+          "Transit Mercury, Venus, and Jupiter are in Cancer in your 10th house, highlighting career, reputation, public image, and professional support.",
+          "Natal Jupiter is in Cancer in the 10th house, making today’s 10th-house emphasis especially meaningful for work and guidance themes.",
+          "Current dasha is Jupiter mahadasha with Mars antardasha, combining career growth potential with the need for careful action and controlled intensity."
+        ],
+        "safetyDisclaimer": "This is a spiritual and reflective astrology reading, not a guarantee of events or a substitute for professional financial, legal, medical, or mental-health advice."
+      },
+      "displayedInAppAs": {
+        "hero": {
+          "headline": "Priya, today is a quiet power day: refine your mind, protect your peace, and let career visibility rise naturally.",
+          "summary": "With the Moon moving through your 12th house and a strong 10th-house transit cluster, the day asks for calm execution rather than loud proving. Work, reputation, and guidance from seniors may become important, but your best results come when you stay private, prepared, and emotionally uncluttered."
+        },
+        "chartSnapshot": {
+          "ascendant": "Libra 10.9",
+          "moon": "Virgo / Chitra",
+          "dasha": "Jupiter-Mars",
+          "saturn": "Pisces / H6",
+          "lifePath": 7
+        },
+        "lanes": {
+          "love": "Keep conversations soft and spacious. The 12th-house Moon can make you read between the lines, so avoid assuming too much from someone’s tone. If attached, a gentle check-in works better than a heavy discussion. If single, attraction may feel subtle or private today rather than dramatic.",
+          "career": "This is the strongest area of the day. Mercury, Venus, and Jupiter transiting your 10th house support professional communication, visibility, and goodwill. Present ideas with polish, ask thoughtful questions, and let your competence speak. Since your natal Jupiter is also in the 10th house, guidance, teaching, leadership, or advisory roles can feel especially aligned.",
+          "money": "Be practical and avoid impulsive spending, especially on comfort, aesthetics, or emotional convenience. Mars in the 8th house transit suggests being careful with shared money, pending dues, taxes, subscriptions, or hidden costs. Review before committing; do not rush.",
+          "mind": "Your natal Moon is in Virgo in the 12th house, and today’s Moon is also transiting Virgo in the 12th. This can heighten intuition, dreams, overthinking, and the need for solitude. A short digital detox, journaling, or mantra practice can reset your energy beautifully."
+        },
+        "actions": {
+          "do": [
+            "Finish one important work task before taking on new requests.",
+            "Keep communication clean, brief, and well-documented.",
+            "Review shared expenses, renewals, or pending payments carefully before approving anything."
+          ],
+          "avoid": [
+            "Do not over-explain yourself to people who are not listening properly.",
+            "Do not make emotional purchases or quick financial commitments.",
+            "Do not ignore your need for silence, rest, or private reflection."
+          ]
+        },
+        "evidence": [
+          "Libra ascendant in Swati pada 2 gives a diplomatic, graceful approach, but today benefits from firm boundaries.",
+          "Natal Moon is in Virgo, Chitra pada 2, in the 12th house; today’s transit Moon is also in Virgo in the 12th house, increasing introspection and sensitivity.",
+          "Transit Mercury, Venus, and Jupiter are in Cancer in your 10th house, highlighting career, reputation, public image, and professional support.",
+          "Natal Jupiter is in Cancer in the 10th house, making today’s 10th-house emphasis especially meaningful for work and guidance themes.",
+          "Current dasha is Jupiter mahadasha with Mars antardasha, combining career growth potential with the need for careful action and controlled intensity."
+        ]
+      },
+      "memoryAfterDailyReading": {
+        "problemCount": 0,
+        "recentProblems": [],
+        "categoryCounts": {},
+        "solutionHistory": []
+      },
+      "validation": {
+        "hasAllReadingKeys": true,
+        "hasRequiredSections": true,
+        "hasThreeDoActions": true,
+        "hasThreeDontActions": true,
+        "hasAstroEvidence": true,
+        "remoteRendered": true
+      }
+    },
+    {
+      "case": 5,
+      "userId": "beta-run-2026-06-23_08-45-39-05",
+      "profile": {
+        "fullName": "Kabir Khan",
+        "birthDate": "1985-07-21",
+        "birthTime": "11:32",
+        "birthTimeConfidence": "exact",
+        "birthplaceText": "Delhi, India",
+        "latitude": 28.6139,
+        "longitude": 77.209,
+        "timezone": "Asia/Kolkata",
+        "language": "en-IN",
+        "consent": {
+          "privacyAccepted": true,
+          "aiPersonalization": true,
+          "marketingOptIn": false
+        }
+      },
+      "placeSearch": {
+        "query": "Delhi",
+        "selected": {
+          "id": "seed-delhi",
+          "label": "Delhi, India",
+          "latitude": 28.6139,
+          "longitude": 77.209,
+          "timezone": "Asia/Kolkata",
+          "source": "seed"
+        },
+        "resultCount": 6
+      },
+      "chart": {
+        "profile": {
+          "fullName": "Kabir Khan",
+          "birthDate": "1985-07-21",
+          "birthTime": "11:32",
+          "birthTimeConfidence": "exact",
+          "birthplaceText": "Delhi, India",
+          "latitude": 28.6139,
+          "longitude": 77.209,
+          "timezone": "Asia/Kolkata",
+          "language": "en-IN",
+          "consent": {
+            "privacyAccepted": true,
+            "aiPersonalization": true,
+            "marketingOptIn": false
+          }
+        },
+        "generatedFor": "2026-06-23",
+        "ayanamsa": "Lahiri approx 23.6549",
+        "calculationEngine": "Compact orbital fallback + Lahiri approximation",
+        "ascendant": {
+          "sign": "Virgo",
+          "degree": 21.0074,
+          "absoluteDegree": 171.0074,
+          "nakshatra": "Hasta",
+          "pada": 4
+        },
+        "moon": {
+          "sign": "Leo",
+          "degree": 14.441,
+          "absoluteDegree": 134.441,
+          "nakshatra": "Purva Phalguni",
+          "pada": 1
+        },
+        "sun": {
+          "sign": "Cancer",
+          "degree": 4.7788,
+          "absoluteDegree": 94.7788,
+          "nakshatra": "Pushya",
+          "pada": 1
+        },
+        "planets": [
+          {
+            "planet": "Sun",
+            "point": {
+              "sign": "Cancer",
+              "degree": 4.7788,
+              "absoluteDegree": 94.7788,
+              "nakshatra": "Pushya",
+              "pada": 1
+            },
+            "house": 11
+          },
+          {
+            "planet": "Moon",
+            "point": {
+              "sign": "Leo",
+              "degree": 14.441,
+              "absoluteDegree": 134.441,
+              "nakshatra": "Purva Phalguni",
+              "pada": 1
+            },
+            "house": 12
+          },
+          {
+            "planet": "Mercury",
+            "point": {
+              "sign": "Cancer",
+              "degree": 29.828,
+              "absoluteDegree": 119.828,
+              "nakshatra": "Ashlesha",
+              "pada": 4
+            },
+            "house": 11
+          },
+          {
+            "planet": "Venus",
+            "point": {
+              "sign": "Taurus",
+              "degree": 22.6738,
+              "absoluteDegree": 52.6738,
+              "nakshatra": "Rohini",
+              "pada": 4
+            },
+            "house": 9
+          },
+          {
+            "planet": "Mars",
+            "point": {
+              "sign": "Cancer",
+              "degree": 3.8246,
+              "absoluteDegree": 93.8246,
+              "nakshatra": "Pushya",
+              "pada": 1
+            },
+            "house": 11
+          },
+          {
+            "planet": "Jupiter",
+            "point": {
+              "sign": "Capricorn",
+              "degree": 20.1534,
+              "absoluteDegree": 290.1534,
+              "nakshatra": "Shravana",
+              "pada": 4
+            },
+            "house": 5
+          },
+          {
+            "planet": "Saturn",
+            "point": {
+              "sign": "Libra",
+              "degree": 28.1401,
+              "absoluteDegree": 208.1401,
+              "nakshatra": "Vishakha",
+              "pada": 3
+            },
+            "house": 2
+          },
+          {
+            "planet": "Rahu",
+            "point": {
+              "sign": "Aries",
+              "degree": 20.8398,
+              "absoluteDegree": 20.8398,
+              "nakshatra": "Bharani",
+              "pada": 3
+            },
+            "house": 8
+          },
+          {
+            "planet": "Ketu",
+            "point": {
+              "sign": "Libra",
+              "degree": 20.8398,
+              "absoluteDegree": 200.8398,
+              "nakshatra": "Vishakha",
+              "pada": 1
+            },
+            "house": 2
+          }
+        ],
+        "dasha": {
+          "mahadasha": "Mars",
+          "antardasha": "Moon",
+          "balanceYearsAtBirth": 18.34
+        },
+        "numerology": {
+          "birthNumber": 3,
+          "lifePathNumber": 6,
+          "personalYearNumber": 2,
+          "personalDayNumber": 4
+        },
+        "transits": [
+          {
+            "planet": "Sun",
+            "point": {
+              "sign": "Gemini",
+              "degree": 7.6115,
+              "absoluteDegree": 67.6115,
+              "nakshatra": "Ardra",
+              "pada": 1
+            },
+            "house": 10
+          },
+          {
+            "planet": "Moon",
+            "point": {
+              "sign": "Virgo",
+              "degree": 22.4551,
+              "absoluteDegree": 172.4551,
+              "nakshatra": "Hasta",
+              "pada": 4
+            },
+            "house": 1
+          },
+          {
+            "planet": "Mercury",
+            "point": {
+              "sign": "Cancer",
+              "degree": 0.444,
+              "absoluteDegree": 90.444,
+              "nakshatra": "Punarvasu",
+              "pada": 4
+            },
+            "house": 11
+          },
+          {
+            "planet": "Venus",
+            "point": {
+              "sign": "Cancer",
+              "degree": 17.1454,
+              "absoluteDegree": 107.1454,
+              "nakshatra": "Ashlesha",
+              "pada": 1
+            },
+            "house": 11
+          },
+          {
+            "planet": "Mars",
+            "point": {
+              "sign": "Taurus",
+              "degree": 1.804,
+              "absoluteDegree": 31.804,
+              "nakshatra": "Krittika",
+              "pada": 2
+            },
+            "house": 9
+          },
+          {
+            "planet": "Jupiter",
+            "point": {
+              "sign": "Cancer",
+              "degree": 4.3194,
+              "absoluteDegree": 94.3194,
+              "nakshatra": "Pushya",
+              "pada": 1
+            },
+            "house": 11
+          },
+          {
+            "planet": "Saturn",
+            "point": {
+              "sign": "Pisces",
+              "degree": 19.4574,
+              "absoluteDegree": 349.4574,
+              "nakshatra": "Revati",
+              "pada": 1
+            },
+            "house": 7
+          },
+          {
+            "planet": "Rahu",
+            "point": {
+              "sign": "Aquarius",
+              "degree": 8.7673,
+              "absoluteDegree": 308.7673,
+              "nakshatra": "Shatabhisha",
+              "pada": 1
+            },
+            "house": 6
+          },
+          {
+            "planet": "Ketu",
+            "point": {
+              "sign": "Leo",
+              "degree": 8.7673,
+              "absoluteDegree": 128.7673,
+              "nakshatra": "Magha",
+              "pada": 3
+            },
+            "house": 12
+          }
+        ]
+      },
+      "reading": {
+        "headline": "A composed, high-visibility day: speak softly, choose sharply.",
+        "summary": "Kabir, today has a strong **work-and-network** signature. The Moon is moving through your Virgo Lagna in Hasta, making you more alert, observant and particular about details. With Sun in the 10th and Jupiter, Mercury and Venus energising your 11th house, your best results come through clear communication, useful allies and practical follow-ups. Keep the royal calm; do not rush to prove your point.",
+        "love": "In relationships, Saturn’s transit through your 7th house asks for maturity over mood. Be present, but avoid over-analysis. A sincere check-in, a respectful message, or a small gesture will work better than dramatic explanations. If single, conversations through friends or professional circles may feel more promising than random pursuit.",
+        "career": "This is a strong day for visibility, meetings, presentations, referrals and reconnecting with influential people. Sun in the 10th supports responsibility and public image, while the 11th-house cluster favours gains through teams. Keep your words precise; Mercury in Cancer can make communication emotional, so balance warmth with facts.",
+        "money": "Good for reviewing income channels, pending dues and long-term goals, but avoid impulsive commitments. Your natal Saturn-Ketu influence in the 2nd house makes disciplined speech and disciplined spending especially important. Choose structure over excitement, and document anything important before agreeing.",
+        "mind": "Moon over your Ascendant can make you sensitive to tone, timing and body language. Use that sensitivity as intelligence, not anxiety. Hasta favours skilful hands and clean execution, so tidy your workspace, complete one important task, and keep the mind anchored in routine.",
+        "doActions": [
+          "Send one thoughtful follow-up to a senior, client or well-wisher.",
+          "Finish a detail-heavy task before starting something new.",
+          "Speak gently but directly in partnership conversations."
+        ],
+        "dontActions": [
+          "Do not react instantly to emotional messages or office politics.",
+          "Do not make money promises based only on optimism.",
+          "Do not over-explain your intentions; let consistency speak."
+        ],
+        "luckySupports": {
+          "colors": [
+            "pearl white",
+            "forest green",
+            "soft gold"
+          ],
+          "numbers": [
+            4,
+            6,
+            11
+          ],
+          "mantra": "Om Budhaya Namah — for clarity, composure and intelligent speech."
+        },
+        "astroEvidence": [
+          "Virgo Ascendant at Hasta pada 4; today’s Moon transits Virgo in Hasta pada 4, activating the 1st house of self, mood and presence.",
+          "Transit Sun in Gemini falls in your 10th house, highlighting career visibility, responsibility and reputation.",
+          "Transit Mercury, Venus and Jupiter are in Cancer in your 11th house, supporting networks, gains, friendships and useful conversations.",
+          "Natal Sun, Mercury and Mars are also in the 11th house, making collective influence and goal-oriented circles a major life theme.",
+          "Transit Saturn in Pisces is in your 7th house, asking patience, boundaries and maturity in one-to-one relationships."
+        ],
+        "safetyDisclaimer": "This reading is for spiritual reflection and personal insight only. Please use your own judgement and consult qualified professionals for medical, legal, financial or crisis-related decisions."
+      },
+      "displayedInAppAs": {
+        "hero": {
+          "headline": "A composed, high-visibility day: speak softly, choose sharply.",
+          "summary": "Kabir, today has a strong **work-and-network** signature. The Moon is moving through your Virgo Lagna in Hasta, making you more alert, observant and particular about details. With Sun in the 10th and Jupiter, Mercury and Venus energising your 11th house, your best results come through clear communication, useful allies and practical follow-ups. Keep the royal calm; do not rush to prove your point."
+        },
+        "chartSnapshot": {
+          "ascendant": "Virgo 21.0",
+          "moon": "Leo / Purva Phalguni",
+          "dasha": "Mars-Moon",
+          "saturn": "Pisces / H7",
+          "lifePath": 6
+        },
+        "lanes": {
+          "love": "In relationships, Saturn’s transit through your 7th house asks for maturity over mood. Be present, but avoid over-analysis. A sincere check-in, a respectful message, or a small gesture will work better than dramatic explanations. If single, conversations through friends or professional circles may feel more promising than random pursuit.",
+          "career": "This is a strong day for visibility, meetings, presentations, referrals and reconnecting with influential people. Sun in the 10th supports responsibility and public image, while the 11th-house cluster favours gains through teams. Keep your words precise; Mercury in Cancer can make communication emotional, so balance warmth with facts.",
+          "money": "Good for reviewing income channels, pending dues and long-term goals, but avoid impulsive commitments. Your natal Saturn-Ketu influence in the 2nd house makes disciplined speech and disciplined spending especially important. Choose structure over excitement, and document anything important before agreeing.",
+          "mind": "Moon over your Ascendant can make you sensitive to tone, timing and body language. Use that sensitivity as intelligence, not anxiety. Hasta favours skilful hands and clean execution, so tidy your workspace, complete one important task, and keep the mind anchored in routine."
+        },
+        "actions": {
+          "do": [
+            "Send one thoughtful follow-up to a senior, client or well-wisher.",
+            "Finish a detail-heavy task before starting something new.",
+            "Speak gently but directly in partnership conversations."
+          ],
+          "avoid": [
+            "Do not react instantly to emotional messages or office politics.",
+            "Do not make money promises based only on optimism.",
+            "Do not over-explain your intentions; let consistency speak."
+          ]
+        },
+        "evidence": [
+          "Virgo Ascendant at Hasta pada 4; today’s Moon transits Virgo in Hasta pada 4, activating the 1st house of self, mood and presence.",
+          "Transit Sun in Gemini falls in your 10th house, highlighting career visibility, responsibility and reputation.",
+          "Transit Mercury, Venus and Jupiter are in Cancer in your 11th house, supporting networks, gains, friendships and useful conversations.",
+          "Natal Sun, Mercury and Mars are also in the 11th house, making collective influence and goal-oriented circles a major life theme.",
+          "Transit Saturn in Pisces is in your 7th house, asking patience, boundaries and maturity in one-to-one relationships."
+        ]
+      },
+      "memoryAfterDailyReading": {
+        "problemCount": 0,
+        "recentProblems": [],
+        "categoryCounts": {},
+        "solutionHistory": []
+      },
+      "validation": {
+        "hasAllReadingKeys": true,
+        "hasRequiredSections": true,
+        "hasThreeDoActions": true,
+        "hasThreeDontActions": true,
+        "hasAstroEvidence": true,
+        "remoteRendered": true
+      }
+    },
+    {
+      "case": 6,
+      "userId": "beta-run-2026-06-23_08-45-39-06",
+      "profile": {
+        "fullName": "Ananya Sen",
+        "birthDate": "2001-01-15",
+        "birthTime": "18:48",
+        "birthTimeConfidence": "exact",
+        "birthplaceText": "Kolkata, West Bengal, India",
+        "latitude": 22.5726,
+        "longitude": 88.3639,
+        "timezone": "Asia/Kolkata",
+        "language": "en-IN",
+        "consent": {
+          "privacyAccepted": true,
+          "aiPersonalization": true,
+          "marketingOptIn": false
+        }
+      },
+      "placeSearch": {
+        "query": "Kolkata",
+        "selected": {
+          "id": "seed-kolkata",
+          "label": "Kolkata, West Bengal, India",
+          "latitude": 22.5726,
+          "longitude": 88.3639,
+          "timezone": "Asia/Kolkata",
+          "source": "seed"
+        },
+        "resultCount": 3
+      },
+      "chart": {
+        "profile": {
+          "fullName": "Ananya Sen",
+          "birthDate": "2001-01-15",
+          "birthTime": "18:48",
+          "birthTimeConfidence": "exact",
+          "birthplaceText": "Kolkata, West Bengal, India",
+          "latitude": 22.5726,
+          "longitude": 88.3639,
+          "timezone": "Asia/Kolkata",
+          "language": "en-IN",
+          "consent": {
+            "privacyAccepted": true,
+            "aiPersonalization": true,
+            "marketingOptIn": false
+          }
+        },
+        "generatedFor": "2026-06-23",
+        "ayanamsa": "Lahiri approx 23.8713",
+        "calculationEngine": "Compact orbital fallback + Lahiri approximation",
+        "ascendant": {
+          "sign": "Cancer",
+          "degree": 23.3077,
+          "absoluteDegree": 113.3077,
+          "nakshatra": "Ashlesha",
+          "pada": 2
+        },
+        "moon": {
+          "sign": "Virgo",
+          "degree": 17.8272,
+          "absoluteDegree": 167.8272,
+          "nakshatra": "Hasta",
+          "pada": 3
+        },
+        "sun": {
+          "sign": "Capricorn",
+          "degree": 1.6039,
+          "absoluteDegree": 271.6039,
+          "nakshatra": "Uttara Ashadha",
+          "pada": 2
+        },
+        "planets": [
+          {
+            "planet": "Sun",
+            "point": {
+              "sign": "Capricorn",
+              "degree": 1.6039,
+              "absoluteDegree": 271.6039,
+              "nakshatra": "Uttara Ashadha",
+              "pada": 2
+            },
+            "house": 7
+          },
+          {
+            "planet": "Moon",
+            "point": {
+              "sign": "Virgo",
+              "degree": 17.8272,
+              "absoluteDegree": 167.8272,
+              "nakshatra": "Hasta",
+              "pada": 3
+            },
+            "house": 3
+          },
+          {
+            "planet": "Mercury",
+            "point": {
+              "sign": "Capricorn",
+              "degree": 14.4415,
+              "absoluteDegree": 284.4415,
+              "nakshatra": "Shravana",
+              "pada": 2
+            },
+            "house": 7
+          },
+          {
+            "planet": "Venus",
+            "point": {
+              "sign": "Aquarius",
+              "degree": 18.6833,
+              "absoluteDegree": 318.6833,
+              "nakshatra": "Shatabhisha",
+              "pada": 4
+            },
+            "house": 8
+          },
+          {
+            "planet": "Mars",
+            "point": {
+              "sign": "Libra",
+              "degree": 19.4919,
+              "absoluteDegree": 199.4919,
+              "nakshatra": "Swati",
+              "pada": 4
+            },
+            "house": 4
+          },
+          {
+            "planet": "Jupiter",
+            "point": {
+              "sign": "Taurus",
+              "degree": 7.5321,
+              "absoluteDegree": 37.5321,
+              "nakshatra": "Krittika",
+              "pada": 4
+            },
+            "house": 11
+          },
+          {
+            "planet": "Saturn",
+            "point": {
+              "sign": "Taurus",
+              "degree": 0.0972,
+              "absoluteDegree": 30.0972,
+              "nakshatra": "Krittika",
+              "pada": 2
+            },
+            "house": 11
+          },
+          {
+            "planet": "Rahu",
+            "point": {
+              "sign": "Gemini",
+              "degree": 21.0479,
+              "absoluteDegree": 81.0479,
+              "nakshatra": "Punarvasu",
+              "pada": 1
+            },
+            "house": 12
+          },
+          {
+            "planet": "Ketu",
+            "point": {
+              "sign": "Sagittarius",
+              "degree": 21.0479,
+              "absoluteDegree": 261.0479,
+              "nakshatra": "Purva Ashadha",
+              "pada": 3
+            },
+            "house": 6
+          }
+        ],
+        "dasha": {
+          "mahadasha": "Rahu",
+          "antardasha": "Venus",
+          "balanceYearsAtBirth": 4.13
+        },
+        "numerology": {
+          "birthNumber": 6,
+          "lifePathNumber": 1,
+          "personalYearNumber": 8,
+          "personalDayNumber": 1
+        },
+        "transits": [
+          {
+            "planet": "Sun",
+            "point": {
+              "sign": "Gemini",
+              "degree": 7.6115,
+              "absoluteDegree": 67.6115,
+              "nakshatra": "Ardra",
+              "pada": 1
+            },
+            "house": 12
+          },
+          {
+            "planet": "Moon",
+            "point": {
+              "sign": "Virgo",
+              "degree": 22.4551,
+              "absoluteDegree": 172.4551,
+              "nakshatra": "Hasta",
+              "pada": 4
+            },
+            "house": 3
+          },
+          {
+            "planet": "Mercury",
+            "point": {
+              "sign": "Cancer",
+              "degree": 0.444,
+              "absoluteDegree": 90.444,
+              "nakshatra": "Punarvasu",
+              "pada": 4
+            },
+            "house": 1
+          },
+          {
+            "planet": "Venus",
+            "point": {
+              "sign": "Cancer",
+              "degree": 17.1454,
+              "absoluteDegree": 107.1454,
+              "nakshatra": "Ashlesha",
+              "pada": 1
+            },
+            "house": 1
+          },
+          {
+            "planet": "Mars",
+            "point": {
+              "sign": "Taurus",
+              "degree": 1.804,
+              "absoluteDegree": 31.804,
+              "nakshatra": "Krittika",
+              "pada": 2
+            },
+            "house": 11
+          },
+          {
+            "planet": "Jupiter",
+            "point": {
+              "sign": "Cancer",
+              "degree": 4.3194,
+              "absoluteDegree": 94.3194,
+              "nakshatra": "Pushya",
+              "pada": 1
+            },
+            "house": 1
+          },
+          {
+            "planet": "Saturn",
+            "point": {
+              "sign": "Pisces",
+              "degree": 19.4574,
+              "absoluteDegree": 349.4574,
+              "nakshatra": "Revati",
+              "pada": 1
+            },
+            "house": 9
+          },
+          {
+            "planet": "Rahu",
+            "point": {
+              "sign": "Aquarius",
+              "degree": 8.7673,
+              "absoluteDegree": 308.7673,
+              "nakshatra": "Shatabhisha",
+              "pada": 1
+            },
+            "house": 8
+          },
+          {
+            "planet": "Ketu",
+            "point": {
+              "sign": "Leo",
+              "degree": 8.7673,
+              "absoluteDegree": 128.7673,
+              "nakshatra": "Magha",
+              "pada": 3
+            },
+            "house": 2
+          }
+        ]
+      },
+      "reading": {
+        "headline": "A poised day to speak softly, choose wisely, and protect your energy.",
+        "summary": "Ananya, today carries a clear self-renewal signature. With Jupiter, Venus and Mercury moving through your Cancer ascendant, your presence feels more noticeable, graceful and persuasive. At the same time, the Sun in your 12th house asks for quiet boundaries, rest, and private reflection. Lead with elegance, not urgency.",
+        "love": "**Love feels tender but slightly sensitive today.** Venus in your 1st house makes you more magnetic, while your natal Venus in the 8th house naturally seeks emotional depth. Avoid testing someone’s loyalty through silence. A calm, direct message will work better than overthinking.",
+        "career": "**Your words can open doors today.** Transit Mercury in your 1st house supports presentations, interviews, client conversations and thoughtful self-expression. The Moon moving through your 3rd house favours writing, calls, short planning tasks and skill-based work. Keep the tone professional and concise.",
+        "money": "**Be mindful with shared expenses and impulse spending.** Rahu’s current movement through your 8th house can make financial grey areas feel tempting or confusing. This is a good day to review subscriptions, dues, taxes, loans or shared payments—but avoid rushing into risky commitments.",
+        "mind": "Your mind may swing between confidence and quiet fatigue. The Sun in your 12th house can bring a need for solitude, while Jupiter in your 1st house restores faith. A short prayer, journaling, or a slow evening walk will help you feel centred again.",
+        "doActions": [
+          "Send one important message you have been postponing.",
+          "Review shared-money matters calmly before agreeing to anything.",
+          "Wear something soft, elegant and comforting to strengthen your Cancer ascendant energy."
+        ],
+        "dontActions": [
+          "Do not take emotional distance as proof of rejection.",
+          "Do not overshare private plans with everyone today.",
+          "Do not make sudden financial decisions from pressure or fear."
+        ],
+        "luckySupports": {
+          "colors": [
+            "Pearl white",
+            "Soft pink",
+            "Sea green"
+          ],
+          "numbers": [
+            1,
+            6,
+            8
+          ],
+          "mantra": "Om Shreem Somaya Namah — invite calm, grace and emotional clarity."
+        },
+        "astroEvidence": [
+          "Cancer ascendant at 23° Ashlesha pada 2 gives a sensitive, perceptive and protective personality tone.",
+          "Natal Moon is in Virgo, Hasta pada 3, in the 3rd house; today’s transit Moon is also in Virgo, Hasta, in the 3rd house, highlighting communication and practical thinking.",
+          "Transit Jupiter, Venus and Mercury are all in Cancer in the 1st house, strengthening visibility, charm, learning and self-confidence.",
+          "Transit Sun is in Gemini in the 12th house, supporting rest, privacy and spiritual reflection.",
+          "Current dasha is Rahu mahadasha with Venus antardasha, blending ambition, desire, relationships and deep inner transformation."
+        ],
+        "safetyDisclaimer": "This reading is for spiritual reflection and personal insight only. Please use your own judgement and seek qualified professional advice for medical, legal, financial or crisis matters."
+      },
+      "displayedInAppAs": {
+        "hero": {
+          "headline": "A poised day to speak softly, choose wisely, and protect your energy.",
+          "summary": "Ananya, today carries a clear self-renewal signature. With Jupiter, Venus and Mercury moving through your Cancer ascendant, your presence feels more noticeable, graceful and persuasive. At the same time, the Sun in your 12th house asks for quiet boundaries, rest, and private reflection. Lead with elegance, not urgency."
+        },
+        "chartSnapshot": {
+          "ascendant": "Cancer 23.3",
+          "moon": "Virgo / Hasta",
+          "dasha": "Rahu-Venus",
+          "saturn": "Pisces / H9",
+          "lifePath": 1
+        },
+        "lanes": {
+          "love": "**Love feels tender but slightly sensitive today.** Venus in your 1st house makes you more magnetic, while your natal Venus in the 8th house naturally seeks emotional depth. Avoid testing someone’s loyalty through silence. A calm, direct message will work better than overthinking.",
+          "career": "**Your words can open doors today.** Transit Mercury in your 1st house supports presentations, interviews, client conversations and thoughtful self-expression. The Moon moving through your 3rd house favours writing, calls, short planning tasks and skill-based work. Keep the tone professional and concise.",
+          "money": "**Be mindful with shared expenses and impulse spending.** Rahu’s current movement through your 8th house can make financial grey areas feel tempting or confusing. This is a good day to review subscriptions, dues, taxes, loans or shared payments—but avoid rushing into risky commitments.",
+          "mind": "Your mind may swing between confidence and quiet fatigue. The Sun in your 12th house can bring a need for solitude, while Jupiter in your 1st house restores faith. A short prayer, journaling, or a slow evening walk will help you feel centred again."
+        },
+        "actions": {
+          "do": [
+            "Send one important message you have been postponing.",
+            "Review shared-money matters calmly before agreeing to anything.",
+            "Wear something soft, elegant and comforting to strengthen your Cancer ascendant energy."
+          ],
+          "avoid": [
+            "Do not take emotional distance as proof of rejection.",
+            "Do not overshare private plans with everyone today.",
+            "Do not make sudden financial decisions from pressure or fear."
+          ]
+        },
+        "evidence": [
+          "Cancer ascendant at 23° Ashlesha pada 2 gives a sensitive, perceptive and protective personality tone.",
+          "Natal Moon is in Virgo, Hasta pada 3, in the 3rd house; today’s transit Moon is also in Virgo, Hasta, in the 3rd house, highlighting communication and practical thinking.",
+          "Transit Jupiter, Venus and Mercury are all in Cancer in the 1st house, strengthening visibility, charm, learning and self-confidence.",
+          "Transit Sun is in Gemini in the 12th house, supporting rest, privacy and spiritual reflection.",
+          "Current dasha is Rahu mahadasha with Venus antardasha, blending ambition, desire, relationships and deep inner transformation."
+        ]
+      },
+      "memoryAfterDailyReading": {
+        "problemCount": 0,
+        "recentProblems": [],
+        "categoryCounts": {},
+        "solutionHistory": []
+      },
+      "validation": {
+        "hasAllReadingKeys": true,
+        "hasRequiredSections": true,
+        "hasThreeDoActions": true,
+        "hasThreeDontActions": true,
+        "hasAstroEvidence": true,
+        "remoteRendered": true
+      }
+    },
+    {
+      "case": 7,
+      "userId": "beta-run-2026-06-23_08-45-39-07",
+      "profile": {
+        "fullName": "Vikram Rao",
+        "birthDate": "1979-05-08",
+        "birthTime": "05:55",
+        "birthTimeConfidence": "exact",
+        "birthplaceText": "Hyderabad, Telangana, India",
+        "latitude": 17.385,
+        "longitude": 78.4867,
+        "timezone": "Asia/Kolkata",
+        "language": "en-IN",
+        "consent": {
+          "privacyAccepted": true,
+          "aiPersonalization": true,
+          "marketingOptIn": false
+        }
+      },
+      "placeSearch": {
+        "query": "Hyderabad",
+        "selected": {
+          "id": "seed-hyderabad",
+          "label": "Hyderabad, Telangana, India",
+          "latitude": 17.385,
+          "longitude": 78.4867,
+          "timezone": "Asia/Kolkata",
+          "source": "seed"
+        },
+        "resultCount": 3
+      },
+      "chart": {
+        "profile": {
+          "fullName": "Vikram Rao",
+          "birthDate": "1979-05-08",
+          "birthTime": "05:55",
+          "birthTimeConfidence": "exact",
+          "birthplaceText": "Hyderabad, Telangana, India",
+          "latitude": 17.385,
+          "longitude": 78.4867,
+          "timezone": "Asia/Kolkata",
+          "language": "en-IN",
+          "consent": {
+            "privacyAccepted": true,
+            "aiPersonalization": true,
+            "marketingOptIn": false
+          }
+        },
+        "generatedFor": "2026-06-23",
+        "ayanamsa": "Lahiri approx 23.5683",
+        "calculationEngine": "Compact orbital fallback + Lahiri approximation",
+        "ascendant": {
+          "sign": "Aries",
+          "degree": 24.4385,
+          "absoluteDegree": 24.4385,
+          "nakshatra": "Bharani",
+          "pada": 4
+        },
+        "moon": {
+          "sign": "Virgo",
+          "degree": 4.9851,
+          "absoluteDegree": 154.9851,
+          "nakshatra": "Uttara Phalguni",
+          "pada": 3
+        },
+        "sun": {
+          "sign": "Aries",
+          "degree": 23.2784,
+          "absoluteDegree": 23.2784,
+          "nakshatra": "Bharani",
+          "pada": 3
+        },
+        "planets": [
+          {
+            "planet": "Sun",
+            "point": {
+              "sign": "Aries",
+              "degree": 23.2784,
+              "absoluteDegree": 23.2784,
+              "nakshatra": "Bharani",
+              "pada": 3
+            },
+            "house": 1
+          },
+          {
+            "planet": "Moon",
+            "point": {
+              "sign": "Virgo",
+              "degree": 4.9851,
+              "absoluteDegree": 154.9851,
+              "nakshatra": "Uttara Phalguni",
+              "pada": 3
+            },
+            "house": 6
+          },
+          {
+            "planet": "Mercury",
+            "point": {
+              "sign": "Aries",
+              "degree": 1.644,
+              "absoluteDegree": 1.644,
+              "nakshatra": "Ashwini",
+              "pada": 1
+            },
+            "house": 1
+          },
+          {
+            "planet": "Venus",
+            "point": {
+              "sign": "Pisces",
+              "degree": 24.3506,
+              "absoluteDegree": 354.3506,
+              "nakshatra": "Revati",
+              "pada": 3
+            },
+            "house": 12
+          },
+          {
+            "planet": "Mars",
+            "point": {
+              "sign": "Aries",
+              "degree": 0.2649,
+              "absoluteDegree": 0.2649,
+              "nakshatra": "Ashwini",
+              "pada": 1
+            },
+            "house": 1
+          },
+          {
+            "planet": "Jupiter",
+            "point": {
+              "sign": "Cancer",
+              "degree": 8.1015,
+              "absoluteDegree": 98.1015,
+              "nakshatra": "Pushya",
+              "pada": 2
+            },
+            "house": 4
+          },
+          {
+            "planet": "Saturn",
+            "point": {
+              "sign": "Leo",
+              "degree": 13.9191,
+              "absoluteDegree": 133.9191,
+              "nakshatra": "Purva Phalguni",
+              "pada": 1
+            },
+            "house": 5
+          },
+          {
+            "planet": "Rahu",
+            "point": {
+              "sign": "Leo",
+              "degree": 20.9322,
+              "absoluteDegree": 140.9322,
+              "nakshatra": "Purva Phalguni",
+              "pada": 3
+            },
+            "house": 5
+          },
+          {
+            "planet": "Ketu",
+            "point": {
+              "sign": "Aquarius",
+              "degree": 20.9322,
+              "absoluteDegree": 320.9322,
+              "nakshatra": "Purva Bhadrapada",
+              "pada": 1
+            },
+            "house": 11
+          }
+        ],
+        "dasha": {
+          "mahadasha": "Jupiter",
+          "antardasha": "Venus",
+          "balanceYearsAtBirth": 2.26
+        },
+        "numerology": {
+          "birthNumber": 8,
+          "lifePathNumber": 3,
+          "personalYearNumber": 5,
+          "personalDayNumber": 7
+        },
+        "transits": [
+          {
+            "planet": "Sun",
+            "point": {
+              "sign": "Gemini",
+              "degree": 7.6115,
+              "absoluteDegree": 67.6115,
+              "nakshatra": "Ardra",
+              "pada": 1
+            },
+            "house": 3
+          },
+          {
+            "planet": "Moon",
+            "point": {
+              "sign": "Virgo",
+              "degree": 22.4551,
+              "absoluteDegree": 172.4551,
+              "nakshatra": "Hasta",
+              "pada": 4
+            },
+            "house": 6
+          },
+          {
+            "planet": "Mercury",
+            "point": {
+              "sign": "Cancer",
+              "degree": 0.444,
+              "absoluteDegree": 90.444,
+              "nakshatra": "Punarvasu",
+              "pada": 4
+            },
+            "house": 4
+          },
+          {
+            "planet": "Venus",
+            "point": {
+              "sign": "Cancer",
+              "degree": 17.1454,
+              "absoluteDegree": 107.1454,
+              "nakshatra": "Ashlesha",
+              "pada": 1
+            },
+            "house": 4
+          },
+          {
+            "planet": "Mars",
+            "point": {
+              "sign": "Taurus",
+              "degree": 1.804,
+              "absoluteDegree": 31.804,
+              "nakshatra": "Krittika",
+              "pada": 2
+            },
+            "house": 2
+          },
+          {
+            "planet": "Jupiter",
+            "point": {
+              "sign": "Cancer",
+              "degree": 4.3194,
+              "absoluteDegree": 94.3194,
+              "nakshatra": "Pushya",
+              "pada": 1
+            },
+            "house": 4
+          },
+          {
+            "planet": "Saturn",
+            "point": {
+              "sign": "Pisces",
+              "degree": 19.4574,
+              "absoluteDegree": 349.4574,
+              "nakshatra": "Revati",
+              "pada": 1
+            },
+            "house": 12
+          },
+          {
+            "planet": "Rahu",
+            "point": {
+              "sign": "Aquarius",
+              "degree": 8.7673,
+              "absoluteDegree": 308.7673,
+              "nakshatra": "Shatabhisha",
+              "pada": 1
+            },
+            "house": 11
+          },
+          {
+            "planet": "Ketu",
+            "point": {
+              "sign": "Leo",
+              "degree": 8.7673,
+              "absoluteDegree": 128.7673,
+              "nakshatra": "Magha",
+              "pada": 3
+            },
+            "house": 5
+          }
+        ]
+      },
+      "reading": {
+        "headline": "A precise, quietly powerful day — lead with discipline, not drama.",
+        "summary": "Vikram, today favours focused execution, home-centred decisions, and intelligent restraint. With the Moon moving through your 6th house and a strong Cancer emphasis in your 4th house, the day rewards order, service, documentation, and calm family/home management. Your natural Aries intensity is high, but the best results come when you speak less impulsively and act with mature timing.",
+        "love": "Affection may show through practical care today rather than grand emotion. Venus transiting Cancer in your 4th house supports warmth at home, family conversations, and softer bonding. However, Moon in the 6th can make small irritations look bigger than they are. Choose patience over correction. If married or committed, a calm evening conversation works better than debating details.",
+        "career": "This is a good day for clearing pending tasks, refining systems, preparing notes, and handling operational matters. Sun in Gemini in your 3rd house supports communication, writing, calls, and short negotiations. Moon in the 6th gives stamina for problem-solving, but avoid micromanaging others. Your win today is precision with humility.",
+        "money": "Mars transiting Taurus in your 2nd house can bring a sharper tone around money, family assets, or spending choices. Avoid impulsive purchases or emotionally charged financial discussions. Jupiter in Cancer in your 4th house supports long-term comfort and stability themes, but today is better for reviewing and organising than taking rushed decisions.",
+        "mind": "Personal Day 7 and Moon in Hasta suggest a reflective, analytical mood. You may notice details others miss, but overthinking can tire you. A short prayer, mantra japa, or quiet walk will help settle the nervous system. Saturn in the 12th asks for disciplined rest, not late-night mental wandering.",
+        "doActions": [
+          "Finish one pending practical task before starting anything new.",
+          "Keep communication crisp, written, and respectful.",
+          "Spend a little time improving your home space or family atmosphere."
+        ],
+        "dontActions": [
+          "Do not react sharply in money or family conversations.",
+          "Do not overanalyse every small delay or mistake.",
+          "Do not sacrifice sleep for unnecessary scrolling or worry."
+        ],
+        "luckySupports": {
+          "colors": [
+            "ivory",
+            "deep green",
+            "soft gold"
+          ],
+          "numbers": [
+            3,
+            7,
+            8
+          ],
+          "mantra": "Om Gurave Namah — repeat 11 times with calm attention."
+        },
+        "astroEvidence": [
+          "Aries ascendant with natal Sun, Mars, and Mercury in the 1st house gives strong initiative and direct expression.",
+          "Natal Moon is in Virgo in the 6th house; today’s transit Moon is also in Virgo in the 6th house, highlighting work, routine, service, and health discipline.",
+          "Transit Sun is in Gemini in the 3rd house, supporting communication, planning, writing, calls, and short movement.",
+          "Transit Mercury, Venus, and Jupiter are in Cancer in the 4th house, bringing focus to home, family comfort, property themes, and emotional grounding.",
+          "Transit Mars is in Taurus in the 2nd house, advising care with speech, spending, and family-value discussions today. No prior user problem history is recorded, so this reading is based only on the provided chart and daily transits."
+        ],
+        "safetyDisclaimer": "This is a spiritual and reflective astrology reading, not medical, legal, financial, or crisis advice. Use it for self-awareness and take important decisions with qualified professional guidance where needed."
+      },
+      "displayedInAppAs": {
+        "hero": {
+          "headline": "A precise, quietly powerful day — lead with discipline, not drama.",
+          "summary": "Vikram, today favours focused execution, home-centred decisions, and intelligent restraint. With the Moon moving through your 6th house and a strong Cancer emphasis in your 4th house, the day rewards order, service, documentation, and calm family/home management. Your natural Aries intensity is high, but the best results come when you speak less impulsively and act with mature timing."
+        },
+        "chartSnapshot": {
+          "ascendant": "Aries 24.4",
+          "moon": "Virgo / Uttara Phalguni",
+          "dasha": "Jupiter-Venus",
+          "saturn": "Pisces / H12",
+          "lifePath": 3
+        },
+        "lanes": {
+          "love": "Affection may show through practical care today rather than grand emotion. Venus transiting Cancer in your 4th house supports warmth at home, family conversations, and softer bonding. However, Moon in the 6th can make small irritations look bigger than they are. Choose patience over correction. If married or committed, a calm evening conversation works better than debating details.",
+          "career": "This is a good day for clearing pending tasks, refining systems, preparing notes, and handling operational matters. Sun in Gemini in your 3rd house supports communication, writing, calls, and short negotiations. Moon in the 6th gives stamina for problem-solving, but avoid micromanaging others. Your win today is precision with humility.",
+          "money": "Mars transiting Taurus in your 2nd house can bring a sharper tone around money, family assets, or spending choices. Avoid impulsive purchases or emotionally charged financial discussions. Jupiter in Cancer in your 4th house supports long-term comfort and stability themes, but today is better for reviewing and organising than taking rushed decisions.",
+          "mind": "Personal Day 7 and Moon in Hasta suggest a reflective, analytical mood. You may notice details others miss, but overthinking can tire you. A short prayer, mantra japa, or quiet walk will help settle the nervous system. Saturn in the 12th asks for disciplined rest, not late-night mental wandering."
+        },
+        "actions": {
+          "do": [
+            "Finish one pending practical task before starting anything new.",
+            "Keep communication crisp, written, and respectful.",
+            "Spend a little time improving your home space or family atmosphere."
+          ],
+          "avoid": [
+            "Do not react sharply in money or family conversations.",
+            "Do not overanalyse every small delay or mistake.",
+            "Do not sacrifice sleep for unnecessary scrolling or worry."
+          ]
+        },
+        "evidence": [
+          "Aries ascendant with natal Sun, Mars, and Mercury in the 1st house gives strong initiative and direct expression.",
+          "Natal Moon is in Virgo in the 6th house; today’s transit Moon is also in Virgo in the 6th house, highlighting work, routine, service, and health discipline.",
+          "Transit Sun is in Gemini in the 3rd house, supporting communication, planning, writing, calls, and short movement.",
+          "Transit Mercury, Venus, and Jupiter are in Cancer in the 4th house, bringing focus to home, family comfort, property themes, and emotional grounding.",
+          "Transit Mars is in Taurus in the 2nd house, advising care with speech, spending, and family-value discussions today. No prior user problem history is recorded, so this reading is based only on the provided chart and daily transits."
+        ]
+      },
+      "memoryAfterDailyReading": {
+        "problemCount": 0,
+        "recentProblems": [],
+        "categoryCounts": {},
+        "solutionHistory": []
+      },
+      "validation": {
+        "hasAllReadingKeys": true,
+        "hasRequiredSections": true,
+        "hasThreeDoActions": true,
+        "hasThreeDontActions": true,
+        "hasAstroEvidence": true,
+        "remoteRendered": true
+      }
+    },
+    {
+      "case": 8,
+      "userId": "beta-run-2026-06-23_08-45-39-08",
+      "profile": {
+        "fullName": "Neha Deshmukh",
+        "birthDate": "2002-03-07",
+        "birthTime": "22:44",
+        "birthTimeConfidence": "exact",
+        "birthplaceText": "Umarga, Maharashtra, India",
+        "latitude": 17.8367,
+        "longitude": 76.6206,
+        "timezone": "Asia/Kolkata",
+        "language": "en-IN",
+        "consent": {
+          "privacyAccepted": true,
+          "aiPersonalization": true,
+          "marketingOptIn": false
+        }
+      },
+      "placeSearch": {
+        "query": "Umarga",
+        "selected": {
+          "id": "seed-umarga",
+          "label": "Umarga, Maharashtra, India",
+          "latitude": 17.8367,
+          "longitude": 76.6206,
+          "timezone": "Asia/Kolkata",
+          "source": "seed"
+        },
+        "resultCount": 3
+      },
+      "chart": {
+        "profile": {
+          "fullName": "Neha Deshmukh",
+          "birthDate": "2002-03-07",
+          "birthTime": "22:44",
+          "birthTimeConfidence": "exact",
+          "birthplaceText": "Umarga, Maharashtra, India",
+          "latitude": 17.8367,
+          "longitude": 76.6206,
+          "timezone": "Asia/Kolkata",
+          "language": "en-IN",
+          "consent": {
+            "privacyAccepted": true,
+            "aiPersonalization": true,
+            "marketingOptIn": false
+          }
+        },
+        "generatedFor": "2026-06-23",
+        "ayanamsa": "Lahiri approx 23.8872",
+        "calculationEngine": "Compact orbital fallback + Lahiri approximation",
+        "ascendant": {
+          "sign": "Libra",
+          "degree": 23.3143,
+          "absoluteDegree": 203.3143,
+          "nakshatra": "Vishakha",
+          "pada": 1
+        },
+        "moon": {
+          "sign": "Sagittarius",
+          "degree": 11.8325,
+          "absoluteDegree": 251.8325,
+          "nakshatra": "Mula",
+          "pada": 4
+        },
+        "sun": {
+          "sign": "Aquarius",
+          "degree": 23.0801,
+          "absoluteDegree": 323.0801,
+          "nakshatra": "Purva Bhadrapada",
+          "pada": 1
+        },
+        "planets": [
+          {
+            "planet": "Sun",
+            "point": {
+              "sign": "Aquarius",
+              "degree": 23.0801,
+              "absoluteDegree": 323.0801,
+              "nakshatra": "Purva Bhadrapada",
+              "pada": 1
+            },
+            "house": 5
+          },
+          {
+            "planet": "Moon",
+            "point": {
+              "sign": "Sagittarius",
+              "degree": 11.8325,
+              "absoluteDegree": 251.8325,
+              "nakshatra": "Mula",
+              "pada": 4
+            },
+            "house": 3
+          },
+          {
+            "planet": "Mercury",
+            "point": {
+              "sign": "Capricorn",
+              "degree": 29.8453,
+              "absoluteDegree": 299.8453,
+              "nakshatra": "Dhanishta",
+              "pada": 2
+            },
+            "house": 4
+          },
+          {
+            "planet": "Venus",
+            "point": {
+              "sign": "Pisces",
+              "degree": 5.6948,
+              "absoluteDegree": 335.6948,
+              "nakshatra": "Uttara Bhadrapada",
+              "pada": 1
+            },
+            "house": 6
+          },
+          {
+            "planet": "Mars",
+            "point": {
+              "sign": "Aries",
+              "degree": 10.4274,
+              "absoluteDegree": 10.4274,
+              "nakshatra": "Ashwini",
+              "pada": 4
+            },
+            "house": 7
+          },
+          {
+            "planet": "Jupiter",
+            "point": {
+              "sign": "Gemini",
+              "degree": 11.7928,
+              "absoluteDegree": 71.7928,
+              "nakshatra": "Ardra",
+              "pada": 2
+            },
+            "house": 9
+          },
+          {
+            "planet": "Saturn",
+            "point": {
+              "sign": "Taurus",
+              "degree": 14.7337,
+              "absoluteDegree": 44.7337,
+              "nakshatra": "Rohini",
+              "pada": 2
+            },
+            "house": 8
+          },
+          {
+            "planet": "Rahu",
+            "point": {
+              "sign": "Taurus",
+              "degree": 28.9946,
+              "absoluteDegree": 58.9946,
+              "nakshatra": "Mrigashira",
+              "pada": 2
+            },
+            "house": 8
+          },
+          {
+            "planet": "Ketu",
+            "point": {
+              "sign": "Scorpio",
+              "degree": 28.9946,
+              "absoluteDegree": 238.9946,
+              "nakshatra": "Jyeshtha",
+              "pada": 4
+            },
+            "house": 2
+          }
+        ],
+        "dasha": {
+          "mahadasha": "Sun",
+          "antardasha": "Saturn",
+          "balanceYearsAtBirth": 0.79
+        },
+        "numerology": {
+          "birthNumber": 7,
+          "lifePathNumber": 5,
+          "personalYearNumber": 2,
+          "personalDayNumber": 4
+        },
+        "transits": [
+          {
+            "planet": "Sun",
+            "point": {
+              "sign": "Gemini",
+              "degree": 7.6115,
+              "absoluteDegree": 67.6115,
+              "nakshatra": "Ardra",
+              "pada": 1
+            },
+            "house": 9
+          },
+          {
+            "planet": "Moon",
+            "point": {
+              "sign": "Virgo",
+              "degree": 22.4551,
+              "absoluteDegree": 172.4551,
+              "nakshatra": "Hasta",
+              "pada": 4
+            },
+            "house": 12
+          },
+          {
+            "planet": "Mercury",
+            "point": {
+              "sign": "Cancer",
+              "degree": 0.444,
+              "absoluteDegree": 90.444,
+              "nakshatra": "Punarvasu",
+              "pada": 4
+            },
+            "house": 10
+          },
+          {
+            "planet": "Venus",
+            "point": {
+              "sign": "Cancer",
+              "degree": 17.1454,
+              "absoluteDegree": 107.1454,
+              "nakshatra": "Ashlesha",
+              "pada": 1
+            },
+            "house": 10
+          },
+          {
+            "planet": "Mars",
+            "point": {
+              "sign": "Taurus",
+              "degree": 1.804,
+              "absoluteDegree": 31.804,
+              "nakshatra": "Krittika",
+              "pada": 2
+            },
+            "house": 8
+          },
+          {
+            "planet": "Jupiter",
+            "point": {
+              "sign": "Cancer",
+              "degree": 4.3194,
+              "absoluteDegree": 94.3194,
+              "nakshatra": "Pushya",
+              "pada": 1
+            },
+            "house": 10
+          },
+          {
+            "planet": "Saturn",
+            "point": {
+              "sign": "Pisces",
+              "degree": 19.4574,
+              "absoluteDegree": 349.4574,
+              "nakshatra": "Revati",
+              "pada": 1
+            },
+            "house": 6
+          },
+          {
+            "planet": "Rahu",
+            "point": {
+              "sign": "Aquarius",
+              "degree": 8.7673,
+              "absoluteDegree": 308.7673,
+              "nakshatra": "Shatabhisha",
+              "pada": 1
+            },
+            "house": 5
+          },
+          {
+            "planet": "Ketu",
+            "point": {
+              "sign": "Leo",
+              "degree": 8.7673,
+              "absoluteDegree": 128.7673,
+              "nakshatra": "Magha",
+              "pada": 3
+            },
+            "house": 11
+          }
+        ]
+      },
+      "reading": {
+        "headline": "A Quiet Power Day: Work Visibility, Inner Reset",
+        "summary": "Neha, today carries a refined but serious tone. Your **10th house is strongly activated by Mercury, Venus and Jupiter in Cancer**, so career, reputation and useful conversations can move ahead. At the same time, the **Moon transits your 12th house in Virgo**, asking you to protect your peace, sleep, and emotional bandwidth. Move with grace, not urgency.",
+        "love": "In relationships, softness works better than proving a point. With your natal **Mars in Aries in the 7th house**, you may naturally respond quickly in one-to-one matters; today, pause before reacting. A simple, kind message can repair more than a long explanation.",
+        "career": "This is the strongest area of the day. **Mercury, Venus and Jupiter transiting your 10th house** favour meetings, presentations, interviews, mentoring, creative work, and being noticed by seniors. Keep your communication polished and practical. Since Mercury is just entering Cancer, start important conversations gently and document details.",
+        "money": "Be steady rather than experimental. **Mars transiting your 8th house** can bring sudden expenses or impatience around shared money, subscriptions, loans, or family resources. Review before paying, avoid impulse purchases, and keep one small buffer aside if possible.",
+        "mind": "The **Moon in your 12th house in Hasta** makes the mind sensitive, observant and slightly withdrawn. This is good for journaling, prayer, planning, decluttering and quiet study. Do not mistake temporary tiredness for failure; your chart today is asking for inner alignment before outer action.",
+        "doActions": [
+          "Prioritise one important career task before distractions begin.",
+          "Send one graceful follow-up message or email.",
+          "Keep your schedule slightly lighter after evening if possible privately resting and reflecting helps today."
+        ],
+        "dontActions": [
+          "Do not rush decisions involving shared money, emotional commitments, or confidential matters.",
+          "Do not over-explain yourself to people who are not listening calmly.",
+          "Do not ignore small work details; today reputation grows through precision."
+        ],
+        "luckySupports": {
+          "colors": [
+            "pearl white",
+            "soft blue",
+            "emerald green"
+          ],
+          "numbers": [
+            4,
+            5,
+            9
+          ],
+          "mantra": "Om Gurave Namah — for wisdom, protection and right guidance."
+        },
+        "astroEvidence": [
+          "Libra ascendant at 23° Vishakha pada 1 gives a diplomatic, balanced life approach.",
+          "Natal Moon is in Sagittarius, Mula pada 4, in the 3rd house — courage through learning, writing and honest communication.",
+          "Current dasha is Sun mahadasha with Saturn antardasha, bringing responsibility, discipline and maturity around self-expression and duties.",
+          "On 2026-06-23, Mercury, Venus and Jupiter transit Cancer in your 10th house, highlighting career visibility and public image.",
+          "Transit Moon is in Virgo, Hasta pada 4, in your 12th house, favouring rest, reflection and emotional privacy also requiring energy protection."
+        ],
+        "safetyDisclaimer": "This reading is for spiritual reflection and personal insight only. Please use your own judgement for medical, legal, financial or urgent life decisions, and consult qualified professionals where needed."
+      },
+      "displayedInAppAs": {
+        "hero": {
+          "headline": "A Quiet Power Day: Work Visibility, Inner Reset",
+          "summary": "Neha, today carries a refined but serious tone. Your **10th house is strongly activated by Mercury, Venus and Jupiter in Cancer**, so career, reputation and useful conversations can move ahead. At the same time, the **Moon transits your 12th house in Virgo**, asking you to protect your peace, sleep, and emotional bandwidth. Move with grace, not urgency."
+        },
+        "chartSnapshot": {
+          "ascendant": "Libra 23.3",
+          "moon": "Sagittarius / Mula",
+          "dasha": "Sun-Saturn",
+          "saturn": "Pisces / H6",
+          "lifePath": 5
+        },
+        "lanes": {
+          "love": "In relationships, softness works better than proving a point. With your natal **Mars in Aries in the 7th house**, you may naturally respond quickly in one-to-one matters; today, pause before reacting. A simple, kind message can repair more than a long explanation.",
+          "career": "This is the strongest area of the day. **Mercury, Venus and Jupiter transiting your 10th house** favour meetings, presentations, interviews, mentoring, creative work, and being noticed by seniors. Keep your communication polished and practical. Since Mercury is just entering Cancer, start important conversations gently and document details.",
+          "money": "Be steady rather than experimental. **Mars transiting your 8th house** can bring sudden expenses or impatience around shared money, subscriptions, loans, or family resources. Review before paying, avoid impulse purchases, and keep one small buffer aside if possible.",
+          "mind": "The **Moon in your 12th house in Hasta** makes the mind sensitive, observant and slightly withdrawn. This is good for journaling, prayer, planning, decluttering and quiet study. Do not mistake temporary tiredness for failure; your chart today is asking for inner alignment before outer action."
+        },
+        "actions": {
+          "do": [
+            "Prioritise one important career task before distractions begin.",
+            "Send one graceful follow-up message or email.",
+            "Keep your schedule slightly lighter after evening if possible privately resting and reflecting helps today."
+          ],
+          "avoid": [
+            "Do not rush decisions involving shared money, emotional commitments, or confidential matters.",
+            "Do not over-explain yourself to people who are not listening calmly.",
+            "Do not ignore small work details; today reputation grows through precision."
+          ]
+        },
+        "evidence": [
+          "Libra ascendant at 23° Vishakha pada 1 gives a diplomatic, balanced life approach.",
+          "Natal Moon is in Sagittarius, Mula pada 4, in the 3rd house — courage through learning, writing and honest communication.",
+          "Current dasha is Sun mahadasha with Saturn antardasha, bringing responsibility, discipline and maturity around self-expression and duties.",
+          "On 2026-06-23, Mercury, Venus and Jupiter transit Cancer in your 10th house, highlighting career visibility and public image.",
+          "Transit Moon is in Virgo, Hasta pada 4, in your 12th house, favouring rest, reflection and emotional privacy also requiring energy protection."
+        ]
+      },
+      "memoryAfterDailyReading": {
+        "problemCount": 0,
+        "recentProblems": [],
+        "categoryCounts": {},
+        "solutionHistory": []
+      },
+      "validation": {
+        "hasAllReadingKeys": true,
+        "hasRequiredSections": true,
+        "hasThreeDoActions": true,
+        "hasThreeDontActions": true,
+        "hasAstroEvidence": true,
+        "remoteRendered": true
+      }
+    },
+    {
+      "case": 9,
+      "userId": "beta-run-2026-06-23_08-45-39-09",
+      "profile": {
+        "fullName": "Siddharth Jain",
+        "birthDate": "1998-10-26",
+        "birthTime": "09:10",
+        "birthTimeConfidence": "exact",
+        "birthplaceText": "Jaipur, Rajasthan, India",
+        "latitude": 26.9124,
+        "longitude": 75.7873,
+        "timezone": "Asia/Kolkata",
+        "language": "en-IN",
+        "consent": {
+          "privacyAccepted": true,
+          "aiPersonalization": true,
+          "marketingOptIn": false
+        }
+      },
+      "placeSearch": {
+        "query": "Jaipur",
+        "selected": {
+          "id": "seed-jaipur",
+          "label": "Jaipur, Rajasthan, India",
+          "latitude": 26.9124,
+          "longitude": 75.7873,
+          "timezone": "Asia/Kolkata",
+          "source": "seed"
+        },
+        "resultCount": 4
+      },
+      "chart": {
+        "profile": {
+          "fullName": "Siddharth Jain",
+          "birthDate": "1998-10-26",
+          "birthTime": "09:10",
+          "birthTimeConfidence": "exact",
+          "birthplaceText": "Jaipur, Rajasthan, India",
+          "latitude": 26.9124,
+          "longitude": 75.7873,
+          "timezone": "Asia/Kolkata",
+          "language": "en-IN",
+          "consent": {
+            "privacyAccepted": true,
+            "aiPersonalization": true,
+            "marketingOptIn": false
+          }
+        },
+        "generatedFor": "2026-06-23",
+        "ayanamsa": "Lahiri approx 23.8402",
+        "calculationEngine": "Compact orbital fallback + Lahiri approximation",
+        "ascendant": {
+          "sign": "Scorpio",
+          "degree": 11.7915,
+          "absoluteDegree": 221.7915,
+          "nakshatra": "Anuradha",
+          "pada": 3
+        },
+        "moon": {
+          "sign": "Sagittarius",
+          "degree": 12.2106,
+          "absoluteDegree": 252.2106,
+          "nakshatra": "Mula",
+          "pada": 4
+        },
+        "sun": {
+          "sign": "Libra",
+          "degree": 8.6877,
+          "absoluteDegree": 188.6877,
+          "nakshatra": "Swati",
+          "pada": 1
+        },
+        "planets": [
+          {
+            "planet": "Sun",
+            "point": {
+              "sign": "Libra",
+              "degree": 8.6877,
+              "absoluteDegree": 188.6877,
+              "nakshatra": "Swati",
+              "pada": 1
+            },
+            "house": 12
+          },
+          {
+            "planet": "Moon",
+            "point": {
+              "sign": "Sagittarius",
+              "degree": 12.2106,
+              "absoluteDegree": 252.2106,
+              "nakshatra": "Mula",
+              "pada": 4
+            },
+            "house": 2
+          },
+          {
+            "planet": "Mercury",
+            "point": {
+              "sign": "Libra",
+              "degree": 27.2225,
+              "absoluteDegree": 207.2225,
+              "nakshatra": "Vishakha",
+              "pada": 3
+            },
+            "house": 12
+          },
+          {
+            "planet": "Venus",
+            "point": {
+              "sign": "Libra",
+              "degree": 7.6649,
+              "absoluteDegree": 187.6649,
+              "nakshatra": "Swati",
+              "pada": 1
+            },
+            "house": 12
+          },
+          {
+            "planet": "Mars",
+            "point": {
+              "sign": "Leo",
+              "degree": 17.4371,
+              "absoluteDegree": 137.4371,
+              "nakshatra": "Purva Phalguni",
+              "pada": 2
+            },
+            "house": 10
+          },
+          {
+            "planet": "Jupiter",
+            "point": {
+              "sign": "Aquarius",
+              "degree": 24.9911,
+              "absoluteDegree": 324.9911,
+              "nakshatra": "Purva Bhadrapada",
+              "pada": 2
+            },
+            "house": 4
+          },
+          {
+            "planet": "Saturn",
+            "point": {
+              "sign": "Aries",
+              "degree": 5.8942,
+              "absoluteDegree": 5.8942,
+              "nakshatra": "Ashwini",
+              "pada": 2
+            },
+            "house": 6
+          },
+          {
+            "planet": "Rahu",
+            "point": {
+              "sign": "Leo",
+              "degree": 4.0987,
+              "absoluteDegree": 124.0987,
+              "nakshatra": "Magha",
+              "pada": 2
+            },
+            "house": 10
+          },
+          {
+            "planet": "Ketu",
+            "point": {
+              "sign": "Aquarius",
+              "degree": 4.0987,
+              "absoluteDegree": 304.0987,
+              "nakshatra": "Dhanishta",
+              "pada": 4
+            },
+            "house": 4
+          }
+        ],
+        "dasha": {
+          "mahadasha": "Moon",
+          "antardasha": "Mars",
+          "balanceYearsAtBirth": 0.59
+        },
+        "numerology": {
+          "birthNumber": 8,
+          "lifePathNumber": 9,
+          "personalYearNumber": 1,
+          "personalDayNumber": 3
+        },
+        "transits": [
+          {
+            "planet": "Sun",
+            "point": {
+              "sign": "Gemini",
+              "degree": 7.6115,
+              "absoluteDegree": 67.6115,
+              "nakshatra": "Ardra",
+              "pada": 1
+            },
+            "house": 8
+          },
+          {
+            "planet": "Moon",
+            "point": {
+              "sign": "Virgo",
+              "degree": 22.4551,
+              "absoluteDegree": 172.4551,
+              "nakshatra": "Hasta",
+              "pada": 4
+            },
+            "house": 11
+          },
+          {
+            "planet": "Mercury",
+            "point": {
+              "sign": "Cancer",
+              "degree": 0.444,
+              "absoluteDegree": 90.444,
+              "nakshatra": "Punarvasu",
+              "pada": 4
+            },
+            "house": 9
+          },
+          {
+            "planet": "Venus",
+            "point": {
+              "sign": "Cancer",
+              "degree": 17.1454,
+              "absoluteDegree": 107.1454,
+              "nakshatra": "Ashlesha",
+              "pada": 1
+            },
+            "house": 9
+          },
+          {
+            "planet": "Mars",
+            "point": {
+              "sign": "Taurus",
+              "degree": 1.804,
+              "absoluteDegree": 31.804,
+              "nakshatra": "Krittika",
+              "pada": 2
+            },
+            "house": 7
+          },
+          {
+            "planet": "Jupiter",
+            "point": {
+              "sign": "Cancer",
+              "degree": 4.3194,
+              "absoluteDegree": 94.3194,
+              "nakshatra": "Pushya",
+              "pada": 1
+            },
+            "house": 9
+          },
+          {
+            "planet": "Saturn",
+            "point": {
+              "sign": "Pisces",
+              "degree": 19.4574,
+              "absoluteDegree": 349.4574,
+              "nakshatra": "Revati",
+              "pada": 1
+            },
+            "house": 5
+          },
+          {
+            "planet": "Rahu",
+            "point": {
+              "sign": "Aquarius",
+              "degree": 8.7673,
+              "absoluteDegree": 308.7673,
+              "nakshatra": "Shatabhisha",
+              "pada": 1
+            },
+            "house": 4
+          },
+          {
+            "planet": "Ketu",
+            "point": {
+              "sign": "Leo",
+              "degree": 8.7673,
+              "absoluteDegree": 128.7673,
+              "nakshatra": "Magha",
+              "pada": 3
+            },
+            "house": 10
+          }
+        ]
+      },
+      "reading": {
+        "headline": "**A sharp, purposeful day — speak less, choose wisely, move with grace.**",
+        "summary": "Siddharth, today carries a focused yet slightly intense tone. With the **transit Moon in Virgo in your 11th house**, gains can come through friends, teams, networks, or a practical conversation. But the **Sun in Gemini in your 8th house** asks you to avoid overexposure and handle sensitive matters quietly. Your **Moon Mahadasha–Mars Antardasha** adds emotional drive, so channel it into clean action, not reaction.",
+        "love": "In relationships, today favours mature, respectful communication. **Mars transiting Taurus in your 7th house** can bring attraction but also impatience. If a discussion becomes sharp, pause before replying. For singles, a connection may feel interesting through shared values or work circles, but do not rush the label.",
+        "career": "Career energy is strong but strategic. Your natal chart has **Mars and Rahu in Leo in the 10th house**, giving ambition and visibility; today, **Ketu transiting Leo in your 10th house** asks you to detach from ego and focus on quality. Let your work speak. A senior, mentor, or learning opportunity may help, supported by **Jupiter, Mercury, and Venus transiting Cancer in your 9th house**.",
+        "money": "Money matters look better through planning than impulse. The **transit Moon in your 11th house** supports income-related conversations or follow-ups, but the **8th-house Sun transit** suggests caution with shared money, hidden costs, subscriptions, taxes, or commitments. Review before agreeing; avoid acting from pressure.",
+        "mind": "Your mind may swing between deep analysis and future planning. Natal **Moon in Mula nakshatra in the 2nd house** gives truth-seeking speech, while today’s Virgo Moon wants precision. Use this for organising, writing, budgeting, or clearing pending messages. Spiritually, a simple grounding mantra or quiet prayer will help you stay centred.",
+        "doActions": [
+          "Have one practical conversation with a friend, colleague, or network contact.",
+          "Review shared expenses, documents, or commitments before confirming anything.",
+          "Use the day for learning, mentoring, travel planning, or higher study-related tasks."
+        ],
+        "dontActions": [
+          "Do not respond harshly in partnership or client matters.",
+          "Do not reveal confidential plans too early.",
+          "Do not take financial or professional risks only to prove a point."
+        ],
+        "luckySupports": {
+          "colors": [
+            "deep green",
+            "cream",
+            "royal blue"
+          ],
+          "numbers": [
+            3,
+            8,
+            9
+          ],
+          "mantra": "**Om Gurave Namah** — repeat 11 times before starting an important task."
+        },
+        "astroEvidence": [
+          "Scorpio ascendant in Anuradha pada 3 sets a private, strategic, loyalty-driven temperament.",
+          "Natal Moon is in Sagittarius, Mula pada 4, in the 2nd house, highlighting direct speech and value-based decisions.",
+          "Current dasha is Moon Mahadasha with Mars Antardasha, increasing emotional urgency and action-orientation.",
+          "Transit Moon is in Virgo, Hasta pada 4, in the 11th house, supporting networks, gains, and practical teamwork.",
+          "Transit Sun is in Gemini, Ardra pada 1, in the 8th house, indicating a need for discretion and careful handling of sensitive matters today 2026-06-23."
+        ],
+        "safetyDisclaimer": "This is a spiritual and reflective Vedic astrology reading, not a guarantee or a substitute for professional financial, legal, medical, or mental-health advice. Use it as guidance while making your own grounded decisions."
+      },
+      "displayedInAppAs": {
+        "hero": {
+          "headline": "**A sharp, purposeful day — speak less, choose wisely, move with grace.**",
+          "summary": "Siddharth, today carries a focused yet slightly intense tone. With the **transit Moon in Virgo in your 11th house**, gains can come through friends, teams, networks, or a practical conversation. But the **Sun in Gemini in your 8th house** asks you to avoid overexposure and handle sensitive matters quietly. Your **Moon Mahadasha–Mars Antardasha** adds emotional drive, so channel it into clean action, not reaction."
+        },
+        "chartSnapshot": {
+          "ascendant": "Scorpio 11.8",
+          "moon": "Sagittarius / Mula",
+          "dasha": "Moon-Mars",
+          "saturn": "Pisces / H5",
+          "lifePath": 9
+        },
+        "lanes": {
+          "love": "In relationships, today favours mature, respectful communication. **Mars transiting Taurus in your 7th house** can bring attraction but also impatience. If a discussion becomes sharp, pause before replying. For singles, a connection may feel interesting through shared values or work circles, but do not rush the label.",
+          "career": "Career energy is strong but strategic. Your natal chart has **Mars and Rahu in Leo in the 10th house**, giving ambition and visibility; today, **Ketu transiting Leo in your 10th house** asks you to detach from ego and focus on quality. Let your work speak. A senior, mentor, or learning opportunity may help, supported by **Jupiter, Mercury, and Venus transiting Cancer in your 9th house**.",
+          "money": "Money matters look better through planning than impulse. The **transit Moon in your 11th house** supports income-related conversations or follow-ups, but the **8th-house Sun transit** suggests caution with shared money, hidden costs, subscriptions, taxes, or commitments. Review before agreeing; avoid acting from pressure.",
+          "mind": "Your mind may swing between deep analysis and future planning. Natal **Moon in Mula nakshatra in the 2nd house** gives truth-seeking speech, while today’s Virgo Moon wants precision. Use this for organising, writing, budgeting, or clearing pending messages. Spiritually, a simple grounding mantra or quiet prayer will help you stay centred."
+        },
+        "actions": {
+          "do": [
+            "Have one practical conversation with a friend, colleague, or network contact.",
+            "Review shared expenses, documents, or commitments before confirming anything.",
+            "Use the day for learning, mentoring, travel planning, or higher study-related tasks."
+          ],
+          "avoid": [
+            "Do not respond harshly in partnership or client matters.",
+            "Do not reveal confidential plans too early.",
+            "Do not take financial or professional risks only to prove a point."
+          ]
+        },
+        "evidence": [
+          "Scorpio ascendant in Anuradha pada 3 sets a private, strategic, loyalty-driven temperament.",
+          "Natal Moon is in Sagittarius, Mula pada 4, in the 2nd house, highlighting direct speech and value-based decisions.",
+          "Current dasha is Moon Mahadasha with Mars Antardasha, increasing emotional urgency and action-orientation.",
+          "Transit Moon is in Virgo, Hasta pada 4, in the 11th house, supporting networks, gains, and practical teamwork.",
+          "Transit Sun is in Gemini, Ardra pada 1, in the 8th house, indicating a need for discretion and careful handling of sensitive matters today 2026-06-23."
+        ]
+      },
+      "memoryAfterDailyReading": {
+        "problemCount": 0,
+        "recentProblems": [],
+        "categoryCounts": {},
+        "solutionHistory": []
+      },
+      "validation": {
+        "hasAllReadingKeys": true,
+        "hasRequiredSections": true,
+        "hasThreeDoActions": true,
+        "hasThreeDontActions": true,
+        "hasAstroEvidence": true,
+        "remoteRendered": true
+      }
+    },
+    {
+      "case": 10,
+      "userId": "beta-run-2026-06-23_08-45-39-10",
+      "profile": {
+        "fullName": "Farah Qureshi",
+        "birthDate": "1992-06-04",
+        "birthTime": "16:27",
+        "birthTimeConfidence": "approximate",
+        "birthplaceText": "Ahmedabad, Gujarat, India",
+        "latitude": 23.0225,
+        "longitude": 72.5714,
+        "timezone": "Asia/Kolkata",
+        "language": "en-IN",
+        "consent": {
+          "privacyAccepted": true,
+          "aiPersonalization": true,
+          "marketingOptIn": false
+        }
+      },
+      "placeSearch": {
+        "query": "Ahmedabad",
+        "selected": {
+          "id": "seed-ahmedabad",
+          "label": "Ahmedabad, Gujarat, India",
+          "latitude": 23.0225,
+          "longitude": 72.5714,
+          "timezone": "Asia/Kolkata",
+          "source": "seed"
+        },
+        "resultCount": 3
+      },
+      "chart": {
+        "profile": {
+          "fullName": "Farah Qureshi",
+          "birthDate": "1992-06-04",
+          "birthTime": "16:27",
+          "birthTimeConfidence": "approximate",
+          "birthplaceText": "Ahmedabad, Gujarat, India",
+          "latitude": 23.0225,
+          "longitude": 72.5714,
+          "timezone": "Asia/Kolkata",
+          "language": "en-IN",
+          "consent": {
+            "privacyAccepted": true,
+            "aiPersonalization": true,
+            "marketingOptIn": false
+          }
+        },
+        "generatedFor": "2026-06-23",
+        "ayanamsa": "Lahiri approx 23.7509",
+        "calculationEngine": "Compact orbital fallback + Lahiri approximation",
+        "ascendant": {
+          "sign": "Libra",
+          "degree": 12.6065,
+          "absoluteDegree": 192.6065,
+          "nakshatra": "Swati",
+          "pada": 2
+        },
+        "moon": {
+          "sign": "Cancer",
+          "degree": 2.9052,
+          "absoluteDegree": 92.9052,
+          "nakshatra": "Punarvasu",
+          "pada": 4
+        },
+        "sun": {
+          "sign": "Taurus",
+          "degree": 20.3167,
+          "absoluteDegree": 50.3167,
+          "nakshatra": "Rohini",
+          "pada": 4
+        },
+        "planets": [
+          {
+            "planet": "Sun",
+            "point": {
+              "sign": "Taurus",
+              "degree": 20.3167,
+              "absoluteDegree": 50.3167,
+              "nakshatra": "Rohini",
+              "pada": 4
+            },
+            "house": 8
+          },
+          {
+            "planet": "Moon",
+            "point": {
+              "sign": "Cancer",
+              "degree": 2.9052,
+              "absoluteDegree": 92.9052,
+              "nakshatra": "Punarvasu",
+              "pada": 4
+            },
+            "house": 10
+          },
+          {
+            "planet": "Mercury",
+            "point": {
+              "sign": "Taurus",
+              "degree": 24.9934,
+              "absoluteDegree": 54.9934,
+              "nakshatra": "Mrigashira",
+              "pada": 1
+            },
+            "house": 8
+          },
+          {
+            "planet": "Venus",
+            "point": {
+              "sign": "Taurus",
+              "degree": 17.8089,
+              "absoluteDegree": 47.8089,
+              "nakshatra": "Rohini",
+              "pada": 3
+            },
+            "house": 8
+          },
+          {
+            "planet": "Mars",
+            "point": {
+              "sign": "Pisces",
+              "degree": 28.6707,
+              "absoluteDegree": 358.6707,
+              "nakshatra": "Revati",
+              "pada": 4
+            },
+            "house": 6
+          },
+          {
+            "planet": "Jupiter",
+            "point": {
+              "sign": "Leo",
+              "degree": 12.5189,
+              "absoluteDegree": 132.5189,
+              "nakshatra": "Magha",
+              "pada": 4
+            },
+            "house": 11
+          },
+          {
+            "planet": "Saturn",
+            "point": {
+              "sign": "Capricorn",
+              "degree": 24.645,
+              "absoluteDegree": 294.645,
+              "nakshatra": "Dhanishta",
+              "pada": 1
+            },
+            "house": 4
+          },
+          {
+            "planet": "Rahu",
+            "point": {
+              "sign": "Sagittarius",
+              "degree": 7.819,
+              "absoluteDegree": 247.819,
+              "nakshatra": "Mula",
+              "pada": 3
+            },
+            "house": 3
+          },
+          {
+            "planet": "Ketu",
+            "point": {
+              "sign": "Gemini",
+              "degree": 7.819,
+              "absoluteDegree": 67.819,
+              "nakshatra": "Ardra",
+              "pada": 1
+            },
+            "house": 9
+          }
+        ],
+        "dasha": {
+          "mahadasha": "Mercury",
+          "antardasha": "Saturn",
+          "balanceYearsAtBirth": 0.51
+        },
+        "numerology": {
+          "birthNumber": 4,
+          "lifePathNumber": 4,
+          "personalYearNumber": 2,
+          "personalDayNumber": 4
+        },
+        "transits": [
+          {
+            "planet": "Sun",
+            "point": {
+              "sign": "Gemini",
+              "degree": 7.6115,
+              "absoluteDegree": 67.6115,
+              "nakshatra": "Ardra",
+              "pada": 1
+            },
+            "house": 9
+          },
+          {
+            "planet": "Moon",
+            "point": {
+              "sign": "Virgo",
+              "degree": 22.4551,
+              "absoluteDegree": 172.4551,
+              "nakshatra": "Hasta",
+              "pada": 4
+            },
+            "house": 12
+          },
+          {
+            "planet": "Mercury",
+            "point": {
+              "sign": "Cancer",
+              "degree": 0.444,
+              "absoluteDegree": 90.444,
+              "nakshatra": "Punarvasu",
+              "pada": 4
+            },
+            "house": 10
+          },
+          {
+            "planet": "Venus",
+            "point": {
+              "sign": "Cancer",
+              "degree": 17.1454,
+              "absoluteDegree": 107.1454,
+              "nakshatra": "Ashlesha",
+              "pada": 1
+            },
+            "house": 10
+          },
+          {
+            "planet": "Mars",
+            "point": {
+              "sign": "Taurus",
+              "degree": 1.804,
+              "absoluteDegree": 31.804,
+              "nakshatra": "Krittika",
+              "pada": 2
+            },
+            "house": 8
+          },
+          {
+            "planet": "Jupiter",
+            "point": {
+              "sign": "Cancer",
+              "degree": 4.3194,
+              "absoluteDegree": 94.3194,
+              "nakshatra": "Pushya",
+              "pada": 1
+            },
+            "house": 10
+          },
+          {
+            "planet": "Saturn",
+            "point": {
+              "sign": "Pisces",
+              "degree": 19.4574,
+              "absoluteDegree": 349.4574,
+              "nakshatra": "Revati",
+              "pada": 1
+            },
+            "house": 6
+          },
+          {
+            "planet": "Rahu",
+            "point": {
+              "sign": "Aquarius",
+              "degree": 8.7673,
+              "absoluteDegree": 308.7673,
+              "nakshatra": "Shatabhisha",
+              "pada": 1
+            },
+            "house": 5
+          },
+          {
+            "planet": "Ketu",
+            "point": {
+              "sign": "Leo",
+              "degree": 8.7673,
+              "absoluteDegree": 128.7673,
+              "nakshatra": "Magha",
+              "pada": 3
+            },
+            "house": 11
+          }
+        ]
+      },
+      "reading": {
+        "headline": "A composed, high-visibility day — move with grace, not haste.",
+        "summary": "Farah, today’s chart brings strong emphasis to your 10th house of work, reputation and public image. Mercury, Venus and Jupiter are all transiting Cancer, close to your natal Moon sign energy, making this a day to speak thoughtfully, polish your presentation and allow your competence to be seen. With the Moon in your 12th house, keep your inner world quiet and uncluttered.",
+        "love": "In relationships, warmth is present but may need gentle handling. Venus in your 10th can make you admired publicly, but the 12th-house Moon asks for emotional privacy. Avoid reading too much into silence. A calm message, a soft check-in, or simply giving space will work better than dramatic explanation.",
+        "career": "This is the strongest area today. Jupiter, Mercury and Venus moving through your 10th house support meetings, visibility, guidance from seniors, client-facing work and reputation-building. Your words can carry weight, so keep communication clear and dignified. Do not rush decisions just to look efficient — quality will impress more than speed.",
+        "money": "Mars transiting your 8th house suggests being careful with shared money, taxes, loans, subscriptions, reimbursements or sudden expenses. It is a good day to review details, not to act impulsively. Keep records clean and avoid emotional spending. Treat money matters like a quiet audit, not a battlefield.",
+        "mind": "The Moon in Virgo in your 12th house may make the mind over-process small details. Since your personal day number is 4, structure will soothe you: lists, routines and one task at a time. A little solitude, prayer, journaling or a peaceful evening will help you feel centred again.",
+        "doActions": [
+          "Speak with clarity in professional conversations.",
+          "Review important documents, payments or shared-money details carefully.",
+          "Take short pauses before replying to sensitive messages. Neyat rakho, jaldi nahi — keep intention pure, not hurried."
+        ],
+        "dontActions": [
+          "Do not over-explain yourself to people who are not listening properly.",
+          "Do not make impulsive financial commitments or emotional purchases.",
+          "Do not sacrifice rest just to appear constantly available."
+        ],
+        "luckySupports": {
+          "colors": [
+            "pearl white",
+            "soft blue",
+            "emerald green"
+          ],
+          "numbers": [
+            2,
+            4,
+            6
+          ],
+          "mantra": "Om Budhaya Namah — for clear speech, calm decisions and intelligent timing."
+        },
+        "astroEvidence": [
+          "Libra ascendant in Swati pada 2 gives a diplomatic, refined approach, but also a need to balance independence with harmony.",
+          "Natal Moon is in Cancer in the 10th house, making career, public image and emotional fulfilment closely connected.",
+          "For 2026-06-23, Mercury, Venus and Jupiter are transiting Cancer in your 10th house, highlighting professional visibility, communication and goodwill.",
+          "Transit Moon is in Virgo in your 12th house, supporting privacy, rest, inner reflection and behind-the-scenes work.",
+          "Transit Mars is in Taurus in your 8th house, advising caution around shared resources, sudden reactions and confidential matters."
+        ],
+        "safetyDisclaimer": "This is a spiritual and reflective astrology reading based on the chart details provided, including an approximate birth time. Please use your own judgement and consult qualified professionals for medical, legal, financial or urgent personal matters."
+      },
+      "displayedInAppAs": {
+        "hero": {
+          "headline": "A composed, high-visibility day — move with grace, not haste.",
+          "summary": "Farah, today’s chart brings strong emphasis to your 10th house of work, reputation and public image. Mercury, Venus and Jupiter are all transiting Cancer, close to your natal Moon sign energy, making this a day to speak thoughtfully, polish your presentation and allow your competence to be seen. With the Moon in your 12th house, keep your inner world quiet and uncluttered."
+        },
+        "chartSnapshot": {
+          "ascendant": "Libra 12.6",
+          "moon": "Cancer / Punarvasu",
+          "dasha": "Mercury-Saturn",
+          "saturn": "Pisces / H6",
+          "lifePath": 4
+        },
+        "lanes": {
+          "love": "In relationships, warmth is present but may need gentle handling. Venus in your 10th can make you admired publicly, but the 12th-house Moon asks for emotional privacy. Avoid reading too much into silence. A calm message, a soft check-in, or simply giving space will work better than dramatic explanation.",
+          "career": "This is the strongest area today. Jupiter, Mercury and Venus moving through your 10th house support meetings, visibility, guidance from seniors, client-facing work and reputation-building. Your words can carry weight, so keep communication clear and dignified. Do not rush decisions just to look efficient — quality will impress more than speed.",
+          "money": "Mars transiting your 8th house suggests being careful with shared money, taxes, loans, subscriptions, reimbursements or sudden expenses. It is a good day to review details, not to act impulsively. Keep records clean and avoid emotional spending. Treat money matters like a quiet audit, not a battlefield.",
+          "mind": "The Moon in Virgo in your 12th house may make the mind over-process small details. Since your personal day number is 4, structure will soothe you: lists, routines and one task at a time. A little solitude, prayer, journaling or a peaceful evening will help you feel centred again."
+        },
+        "actions": {
+          "do": [
+            "Speak with clarity in professional conversations.",
+            "Review important documents, payments or shared-money details carefully.",
+            "Take short pauses before replying to sensitive messages. Neyat rakho, jaldi nahi — keep intention pure, not hurried."
+          ],
+          "avoid": [
+            "Do not over-explain yourself to people who are not listening properly.",
+            "Do not make impulsive financial commitments or emotional purchases.",
+            "Do not sacrifice rest just to appear constantly available."
+          ]
+        },
+        "evidence": [
+          "Libra ascendant in Swati pada 2 gives a diplomatic, refined approach, but also a need to balance independence with harmony.",
+          "Natal Moon is in Cancer in the 10th house, making career, public image and emotional fulfilment closely connected.",
+          "For 2026-06-23, Mercury, Venus and Jupiter are transiting Cancer in your 10th house, highlighting professional visibility, communication and goodwill.",
+          "Transit Moon is in Virgo in your 12th house, supporting privacy, rest, inner reflection and behind-the-scenes work.",
+          "Transit Mars is in Taurus in your 8th house, advising caution around shared resources, sudden reactions and confidential matters."
+        ]
+      },
+      "memoryAfterDailyReading": {
+        "problemCount": 0,
+        "recentProblems": [],
+        "categoryCounts": {},
+        "solutionHistory": []
+      },
+      "validation": {
+        "hasAllReadingKeys": true,
+        "hasRequiredSections": true,
+        "hasThreeDoActions": true,
+        "hasThreeDontActions": true,
+        "hasAstroEvidence": true,
+        "remoteRendered": true
+      }
+    }
+  ]
+}
